@@ -1,7 +1,7 @@
 TASKO V12 — Security + UX Fix Build
 
 تشغيل Termux:
-cd ~/storage/shared/Tasko/Tasko_Prototype_V13_Portal_UX_Security
+cd ~/storage/shared/Tasko/Tasko_Prototype_V14_Portal_UX_Security
 node server.js
 ثم افتح: http://127.0.0.1:3000
 
@@ -43,3 +43,6 @@ Portals:
 - Advertiser: http://127.0.0.1:3000/advertiser
 
 The public root does not display the Admin/Advertiser portal selector.
+
+
+V14 note: each Admin/Owner has an individual 4-digit security PIN. Production should set unique TASKO_PIN_* values as private environment variables; never commit real PINs.

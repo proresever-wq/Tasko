@@ -13,3 +13,20 @@
 - [x] Package switch API is server-side permission + confirmation protected.
 - [x] Node syntax checks pass for server.js and js/app.js.
 - [x] Health endpoint responds successfully in local smoke test.
+
+## V14 consolidated checks
+- [x] Per-admin/owner 4-digit security PIN is verified against the current authenticated account; no shared PIN is accepted when a personal PIN exists.
+- [x] Second Owner account is seeded with full owner permissions.
+- [x] Admin permission editing uses toggles; navigation is filtered by permission and server APIs remain permission-protected.
+- [x] User/admin/advertiser/owner profiles expose a stable Account ID with copy action.
+- [x] Admin user search includes Account ID.
+- [x] User tasks include published additional/admin-created tasks when eligible.
+- [x] User support tickets support replies; admin can close tickets; closed tickets are read-only.
+- [x] Audit log is human-readable instead of raw JSON and is kept inside the main content area.
+- [x] Desktop profile modal uses a wider responsive layout and keeps package controls from covering account data.
+- [x] Browser routes are real paths with history/back/forward support; non-API routes fall back to index.html.
+- [x] Advertiser refresh restores advertiser role and advertiser accounts do not expose user package switching.
+- [x] Sandbox can edit test-user cash/points/XP/package/account state and is isolated behind sandbox permission.
+- [x] Preview user flow supports task, package, support, and wallet simulation without real financial effects.
+- [x] Arabic/English language switcher changes document direction and applies the central UI translation layer.
+- [x] Premium theme includes restrained gold accents and motion.
