@@ -1,1 +1,821 @@
-
+{
+  "users": [
+    {
+      "id": "owner",
+      "name": "Tasko Owner",
+      "email": "owner@tasko.test",
+      "phone": "+962790000000",
+      "password": "scrypt$791fc9344d738c0f753935fcb8e1390b$f59db7fb029b18f205e740b9bf4d36d456a783a84cc7539559624188a396b536f28fc4a9947dbec29e3e30cca548f1bb3756eace8cd6c4b09fd080a91fc29e97",
+      "role": "owner",
+      "permissions": [
+        "users",
+        "tasks",
+        "campaigns",
+        "partners",
+        "withdrawals",
+        "rewards",
+        "referrals",
+        "subscriptions",
+        "fraud",
+        "support",
+        "reports",
+        "audit",
+        "settings",
+        "sandbox",
+        "admins",
+        "advertisers",
+        "preview"
+      ],
+      "accountState": "Normal",
+      "xp": 0,
+      "points": 0,
+      "cash": 0,
+      "package": "Free",
+      "createdAt": "2026-09-15T01:27:15.180Z",
+      "lastLogin": "2026-09-19T16:43:42.244Z",
+      "emailVerified": false,
+      "phoneVerified": false,
+      "levelId": "bronze",
+      "sessionVersion": 1,
+      "archived": false
+    },
+    {
+      "id": "admin_demo",
+      "name": "Tasko Operations Admin",
+      "email": "admin@tasko.test",
+      "phone": "+962790000001",
+      "password": "scrypt$63b3e01aac95340b86039327c4be944f$59fd6c94b394d03d15a2798f26f53e452c006d5f0177d6f545b990f364437848c02dd8ae81a86552a2c035d0309c52cb7d9dff013b0b95fdd63f8ce3ed0a79ab",
+      "role": "admin",
+      "permissions": [
+        "users",
+        "tasks",
+        "campaigns",
+        "withdrawals",
+        "support",
+        "reports",
+        "audit",
+        "advertisers",
+        "fraud"
+      ],
+      "accountState": "Normal",
+      "xp": 0,
+      "points": 0,
+      "cash": 0,
+      "package": "Free",
+      "createdAt": "2026-09-15T01:27:15.354Z",
+      "lastLogin": null,
+      "emailVerified": false,
+      "phoneVerified": false,
+      "levelId": "bronze",
+      "sessionVersion": 1,
+      "archived": false
+    },
+    {
+      "id": "user_demo",
+      "name": "Tasko Demo User",
+      "email": "user@tasko.test",
+      "phone": "+962790000002",
+      "password": "scrypt$5b9e20874cf4299051a97072c6314fe0$244e2e8b1627f3d30a8ab447fe3ad1199fd5b6e294fc57016e4c9b5c6b3ecccfb2eeb133961cc7b477753ab5af503415b4cd314188b51256cfcc0e8d60863c2c",
+      "role": "user",
+      "permissions": [],
+      "accountState": "Normal",
+      "xp": 0,
+      "points": 0,
+      "cash": 0,
+      "package": "Free",
+      "createdAt": "2026-09-15T01:27:15.387Z",
+      "lastLogin": "2026-09-19T16:42:40.602Z",
+      "emailVerified": false,
+      "phoneVerified": false,
+      "levelId": "bronze",
+      "sessionVersion": 1,
+      "archived": false
+    },
+    {
+      "id": "admin_users",
+      "name": "Tasko Users Admin",
+      "email": "admin-users@tasko.test",
+      "phone": "+962790000004",
+      "password": "scrypt$6596bf79baf959b2b9cc45015d185d9e$6be838c12881dea4a41a7b16f2e9eccd2f6aaad888300644741ae6707c101de272901c017cdcce047d105ddddc6ce4048be2c61c4d9470277d9ae85f66b1a1f3",
+      "role": "admin",
+      "permissions": [
+        "users",
+        "reports",
+        "audit",
+        "support"
+      ],
+      "accountState": "Normal",
+      "xp": 0,
+      "points": 0,
+      "cash": 0,
+      "package": "Free",
+      "createdAt": "2026-09-15T01:27:15.421Z",
+      "lastLogin": null,
+      "emailVerified": false,
+      "phoneVerified": false,
+      "levelId": "bronze",
+      "sessionVersion": 1,
+      "archived": false
+    },
+    {
+      "id": "admin_tasks",
+      "name": "Tasko Tasks Admin",
+      "email": "admin-tasks@tasko.test",
+      "phone": "+962790000005",
+      "password": "scrypt$e62c1f9c5d22703bf568887ab2f38be3$36aaf39daef1441272eefec2e24781f4cee9e8a6fbca0061a76c370ed06812a2841dc7b92face2ef56c604647facc0f53182a6d511363301b5fa47c06035007c",
+      "role": "admin",
+      "permissions": [
+        "tasks",
+        "campaigns",
+        "reports",
+        "audit"
+      ],
+      "accountState": "Normal",
+      "xp": 0,
+      "points": 0,
+      "cash": 0,
+      "package": "Free",
+      "createdAt": "2026-09-15T01:27:15.455Z",
+      "lastLogin": null,
+      "emailVerified": false,
+      "phoneVerified": false,
+      "levelId": "bronze",
+      "sessionVersion": 1,
+      "archived": false
+    },
+    {
+      "id": "admin_support",
+      "name": "Tasko Support Admin",
+      "email": "support@tasko.test",
+      "phone": "+962790000006",
+      "password": "scrypt$33a303a8e8d59dd58bb807189de924ed$e2083d64020de0a25e917346b906706fdfdaf34c776359cbc02d483a30f532f3237d9dbab011846f0e6e0d4155526d4b77a7592540e0bda84636a90e381b3cca",
+      "role": "admin",
+      "permissions": [
+        "support",
+        "users",
+        "reports"
+      ],
+      "accountState": "Normal",
+      "xp": 0,
+      "points": 0,
+      "cash": 0,
+      "package": "Free",
+      "createdAt": "2026-09-15T01:27:15.491Z",
+      "lastLogin": null,
+      "emailVerified": false,
+      "phoneVerified": false,
+      "levelId": "bronze",
+      "sessionVersion": 1,
+      "archived": false
+    },
+    {
+      "id": "user1",
+      "name": "Tasko Test User 1",
+      "email": "user1@tasko.test",
+      "phone": "+962790000007",
+      "password": "scrypt$00e7402ad3e6fefd59695ca7b0dba246$5a92bec83983daf06386d4045dc95063c65fd1f90800a3715e50771daa556b02f87ce953cd36a409f6dc1bebd1b686e550f8d4203b22fe0a4a9cc195844ad8f8",
+      "role": "user",
+      "permissions": [],
+      "accountState": "Normal",
+      "xp": 0,
+      "points": 0,
+      "cash": 0,
+      "package": "Free",
+      "createdAt": "2026-09-15T01:27:15.524Z",
+      "lastLogin": null,
+      "emailVerified": false,
+      "phoneVerified": false,
+      "levelId": "bronze",
+      "sessionVersion": 1,
+      "archived": false
+    },
+    {
+      "id": "advertiser1",
+      "name": "Tasko Advertiser 1",
+      "email": "advertiser1@tasko.test",
+      "phone": "+962790000008",
+      "password": "scrypt$885a0a0a3a5254e18c4fcd9c9d9354e1$d2eb460fb0f55121c4decd64afaf1cc3731c96dc5baec45db2e02ee1411056d55e3c1e4a0004bf3e6017b57b373caf410c7cda94f1b62b73cca768672d6ee712",
+      "role": "advertiser",
+      "permissions": [],
+      "accountState": "Normal",
+      "xp": 0,
+      "points": 0,
+      "cash": 0,
+      "package": "Free",
+      "createdAt": "2026-09-15T01:27:15.557Z",
+      "lastLogin": null,
+      "company": "Tasko Advertiser 1",
+      "emailVerified": false,
+      "phoneVerified": false,
+      "levelId": "bronze",
+      "sessionVersion": 1,
+      "archived": false
+    },
+    {
+      "id": "vip_advertiser",
+      "name": "Tasko VIP Advertiser",
+      "email": "vip-advertiser@tasko.test",
+      "phone": "+962790000009",
+      "password": "scrypt$12d9a32bc3814ca6dfafd81e8c63cf43$607b704f9625885267979982b83beb50be2ef22d539180fcaece8b5ecf8a8e9eafaad7019995b5cc9bf903e0862d4fcf0a6164b64ec036e8612943a4a2ca271b",
+      "role": "advertiser",
+      "permissions": [],
+      "accountState": "Normal",
+      "xp": 0,
+      "points": 0,
+      "cash": 0,
+      "package": "Free",
+      "createdAt": "2026-09-15T01:27:15.591Z",
+      "lastLogin": null,
+      "company": "Tasko VIP Client",
+      "emailVerified": false,
+      "phoneVerified": false,
+      "levelId": "bronze",
+      "sessionVersion": 1,
+      "archived": false
+    },
+    {
+      "id": "advertiser_demo",
+      "name": "Tasko Demo Advertiser",
+      "email": "advertiser@tasko.test",
+      "phone": "+962790000003",
+      "password": "scrypt$29635ea52460c7fdf07de8dbe21f7641$f4b88473f59945eecfd4fea044ffb8c8790cd1a13257bff2f793cbf02993faed834e7a9c3ef11ff4acf052b7eab6202fe93e717772576533967f02a4db6801af",
+      "role": "advertiser",
+      "permissions": [],
+      "accountState": "Normal",
+      "xp": 0,
+      "points": 0,
+      "cash": 0,
+      "package": "Free",
+      "createdAt": "2026-09-15T01:27:15.624Z",
+      "lastLogin": "2026-09-19T16:43:09.208Z",
+      "company": "Demo Advertiser",
+      "emailVerified": false,
+      "phoneVerified": false,
+      "levelId": "bronze",
+      "sessionVersion": 1,
+      "archived": false
+    },
+    {
+      "id": "owner2",
+      "name": "Tasko Owner 2",
+      "email": "owner2@tasko.test",
+      "phone": "+962790000010",
+      "password": "scrypt$6c318d5c10d1727c685414dd03644c1c$0d063de985c686021d8e7fb2dbc95860e32e064556baf7e02686652021230c5f10a6077a4b260970c8875d35a01e7bbd51f1373a79f7fd6f9f3d1d385197382a",
+      "role": "owner",
+      "permissions": [
+        "users",
+        "tasks",
+        "campaigns",
+        "partners",
+        "withdrawals",
+        "rewards",
+        "referrals",
+        "subscriptions",
+        "fraud",
+        "support",
+        "reports",
+        "audit",
+        "settings",
+        "sandbox",
+        "admins",
+        "advertisers",
+        "preview"
+      ],
+      "accountState": "Normal",
+      "xp": 0,
+      "points": 0,
+      "cash": 0,
+      "package": "Free",
+      "createdAt": "2026-09-19T16:31:52.240Z",
+      "lastLogin": null,
+      "emailVerified": false,
+      "phoneVerified": false,
+      "levelId": "bronze",
+      "sessionVersion": 1,
+      "archived": false
+    }
+  ],
+  "admins": [],
+  "advertisers": [
+    {
+      "id": "advertiser_7b333ce5c0436f",
+      "userId": "advertiser1",
+      "company": "Tasko Advertiser 1",
+      "contact": "Tasko Advertiser 1",
+      "email": "advertiser1@tasko.test",
+      "status": "active",
+      "vip": false,
+      "verifiedAt": "2026-09-15T01:27:15.558Z"
+    },
+    {
+      "id": "advertiser_6667dd8561a251",
+      "userId": "vip_advertiser",
+      "company": "Tasko VIP Client",
+      "contact": "Tasko VIP Advertiser",
+      "email": "vip-advertiser@tasko.test",
+      "status": "active",
+      "vip": true,
+      "verifiedAt": "2026-09-15T01:27:15.591Z"
+    },
+    {
+      "id": "advertiser_8c07165b4d5cb6",
+      "userId": "advertiser_demo",
+      "company": "Demo Advertiser",
+      "contact": "Tasko Demo Advertiser",
+      "email": "advertiser@tasko.test",
+      "status": "active",
+      "vip": false,
+      "verifiedAt": "2026-09-15T01:27:15.625Z"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "task_demo_video",
+      "title": "مشاهدة فيديو",
+      "type": "video",
+      "points": 50,
+      "xp": 20,
+      "duration": 120,
+      "package": "Free",
+      "levelMin": 0,
+      "verification": "auto",
+      "active": true,
+      "dailyLimit": 5
+    },
+    {
+      "id": "task_demo_survey",
+      "title": "استبيان قصير",
+      "type": "survey",
+      "points": 150,
+      "xp": 50,
+      "duration": 300,
+      "package": "Free",
+      "levelMin": 0,
+      "verification": "pending",
+      "active": true,
+      "dailyLimit": 3
+    },
+    {
+      "id": "task_demo_test",
+      "title": "اختبار موقع",
+      "type": "testing",
+      "points": 300,
+      "xp": 100,
+      "duration": 600,
+      "package": "Plus",
+      "levelMin": 1000,
+      "verification": "manual",
+      "active": true,
+      "dailyLimit": 2
+    },
+    {
+      "id": "challenge_daily_demo",
+      "title": "أكمل 3 مهام اليوم",
+      "type": "complete_tasks",
+      "goalType": "complete_tasks",
+      "goalTarget": 3,
+      "period": "daily",
+      "points": 100,
+      "xp": 20,
+      "duration": 60,
+      "package": "Free",
+      "levelMin": 0,
+      "verification": "auto",
+      "active": true,
+      "dailyLimit": 30,
+      "tracking": "internal",
+      "category": "تحديات",
+      "isAdditional": true,
+      "description": "أكمل 3 مهام معتمدة اليوم.",
+      "conditions": "تُحسب بعد اعتماد المهام.",
+      "createdAt": "2026-09-16T00:00:00.000Z",
+      "updatedAt": "2026-09-16T00:00:00.000Z"
+    },
+    {
+      "id": "challenge_weekly_demo",
+      "title": "أكمل 5 مهام هذا الأسبوع",
+      "type": "complete_tasks",
+      "goalType": "complete_tasks",
+      "goalTarget": 5,
+      "period": "weekly",
+      "points": 300,
+      "xp": 50,
+      "duration": 60,
+      "package": "Free",
+      "levelMin": 0,
+      "verification": "auto",
+      "active": true,
+      "dailyLimit": 30,
+      "tracking": "internal",
+      "category": "تحديات",
+      "isAdditional": true,
+      "description": "أكمل 5 مهام معتمدة هذا الأسبوع.",
+      "conditions": "تُحسب بعد اعتماد المهام.",
+      "createdAt": "2026-09-16T00:00:00.000Z",
+      "updatedAt": "2026-09-16T00:00:00.000Z"
+    },
+    {
+      "id": "challenge_monthly_demo",
+      "title": "أكمل 20 مهمة هذا الشهر",
+      "type": "complete_tasks",
+      "goalType": "complete_tasks",
+      "goalTarget": 20,
+      "period": "monthly",
+      "points": 1000,
+      "xp": 150,
+      "duration": 60,
+      "package": "Free",
+      "levelMin": 0,
+      "verification": "auto",
+      "active": true,
+      "dailyLimit": 30,
+      "tracking": "internal",
+      "category": "تحديات",
+      "isAdditional": true,
+      "description": "أكمل 20 مهمة معتمدة هذا الشهر.",
+      "conditions": "تُحسب بعد اعتماد المهام.",
+      "createdAt": "2026-09-16T00:00:00.000Z",
+      "updatedAt": "2026-09-16T00:00:00.000Z"
+    }
+  ],
+  "attempts": [],
+  "activities": [
+    {
+      "id": "act_b2906c0f5e7cd4",
+      "userId": "owner",
+      "type": "login",
+      "at": "2026-09-19T16:43:42.244Z",
+      "portal": "admin"
+    },
+    {
+      "id": "act_1e26e43f3beb74",
+      "userId": "owner",
+      "type": "login",
+      "at": "2026-09-19T16:43:40.089Z",
+      "portal": "admin"
+    },
+    {
+      "id": "act_82d1f8340298b2",
+      "userId": "advertiser_demo",
+      "type": "login",
+      "at": "2026-09-19T16:43:09.208Z",
+      "portal": "advertiser"
+    },
+    {
+      "id": "act_304315c24458dd",
+      "userId": "owner",
+      "type": "login",
+      "at": "2026-09-19T16:42:58.039Z",
+      "portal": "admin"
+    },
+    {
+      "id": "act_0922be69174718",
+      "userId": "user_demo",
+      "type": "login",
+      "at": "2026-09-19T16:42:40.602Z",
+      "portal": "user"
+    },
+    {
+      "id": "act_261a3c8d3bbff7",
+      "userId": "user_demo",
+      "type": "login",
+      "at": "2026-09-19T16:42:37.754Z",
+      "portal": "user"
+    },
+    {
+      "id": "act_b2c7dab5cea863",
+      "userId": "owner",
+      "type": "login",
+      "at": "2026-09-19T16:32:11.421Z",
+      "portal": "admin"
+    },
+    {
+      "id": "act_43f57868956c35",
+      "userId": "owner",
+      "type": "login",
+      "at": "2026-09-19T16:32:02.916Z",
+      "portal": "admin"
+    },
+    {
+      "id": "act_df8a4e061d37b1",
+      "userId": "user_demo",
+      "type": "login",
+      "at": "2026-09-19T16:31:59.734Z",
+      "portal": "user"
+    },
+    {
+      "id": "act_4e9220bf9b616f",
+      "userId": "owner",
+      "type": "login",
+      "at": "2026-09-17T00:08:53.173Z",
+      "portal": "admin"
+    }
+  ],
+  "withdrawals": [],
+  "transactions": [],
+  "rewards": [],
+  "redemptions": [],
+  "referrals": [],
+  "tickets": [],
+  "notifications": [],
+  "audits": [
+    {
+      "id": "audit_e3fa4e7fa95be4",
+      "actorId": "owner",
+      "action": "test_user_package_switch",
+      "target": "user_demo",
+      "meta": {
+        "from": "Free",
+        "to": "Plus",
+        "reset": false
+      },
+      "at": "2026-09-17T00:08:53.223Z"
+    }
+  ],
+  "violations": [],
+  "campaigns": [
+    {
+      "id": "cmp_demo",
+      "referenceId": "CMP-DEMO-001",
+      "advertiserId": "advertiser_8c07165b4d5cb6",
+      "name": "حملة تجريبية",
+      "objective": "conversion",
+      "budget": 500,
+      "platformRevenue": 50,
+      "status": "active",
+      "trackingId": "clk_demo_001",
+      "createdAt": "2026-09-15T01:27:15.625Z",
+      "results": {
+        "clicks": 120,
+        "conversions": 12,
+        "spent": 180
+      }
+    }
+  ],
+  "partners": [
+    {
+      "id": "par_demo",
+      "name": "Donut House",
+      "category": "Food",
+      "status": "active",
+      "vip": false
+    }
+  ],
+  "offers": [
+    {
+      "id": "off_demo",
+      "partnerId": "par_demo",
+      "title": "دونات مجانية",
+      "description": "دونات واحدة عند الاستبدال",
+      "pointsCost": 1000,
+      "levelMin": 1000,
+      "packageMin": "Free",
+      "active": true,
+      "usesPerUser": 1
+    },
+    {
+      "id": "off_demo_voucher",
+      "partnerId": "par_demo",
+      "title": "قسيمة تجريبية",
+      "description": "عرض تجريبي لاختبار تحميل متجر المكافآت والاسترداد.",
+      "pointsCost": 500,
+      "levelMin": 0,
+      "packageMin": "Free",
+      "active": true,
+      "usesPerUser": 1
+    },
+    {
+      "id": "off_demo_plus",
+      "partnerId": "par_demo",
+      "title": "خصم شريك تجريبي",
+      "description": "خصم تجريبي لمعاينة اختلاف عروض المتجر.",
+      "pointsCost": 750,
+      "levelMin": 1000,
+      "packageMin": "Free",
+      "active": true,
+      "usesPerUser": 1
+    }
+  ],
+  "subscriptions": [
+    {
+      "id": "Free",
+      "name": "Free",
+      "price": 0,
+      "features": [
+        "الوصول الأساسي",
+        "حدود يومية قياسية"
+      ]
+    },
+    {
+      "id": "Plus",
+      "name": "Plus",
+      "price": 4.99,
+      "features": [
+        "مهام أكثر",
+        "أولوية أفضل",
+        "مهام Plus"
+      ]
+    },
+    {
+      "id": "Premium",
+      "name": "Premium",
+      "price": 9.99,
+      "features": [
+        "أعلى أولوية",
+        "ميزات Premium",
+        "حدود أعلى"
+      ]
+    }
+  ],
+  "settings": {
+    "minWithdrawal": 5,
+    "referralReward": 100,
+    "referredGift": 50,
+    "referralQualificationTasks": 3,
+    "warningLimit": 3,
+    "tempSuspendLimit": 5,
+    "banLimit": 8,
+    "taskDailyLimit": 30,
+    "pointsPerCash": 100,
+    "maintenance": false,
+    "registrationsOpen": true,
+    "tasksOpen": true,
+    "withdrawalsOpen": true,
+    "emergencyMode": false,
+    "emergencyReason": "",
+    "packages": {
+      "Free": {
+        "name": "Free",
+        "price": 0,
+        "currency": "JOD",
+        "durationDays": 0,
+        "active": true,
+        "visible": true,
+        "dailyTasks": 30,
+        "weeklyTasks": 0,
+        "monthlyTasks": 0,
+        "maxPerTask": 1,
+        "priority": "normal",
+        "minLevel": 0,
+        "withdrawalMin": 5,
+        "withdrawalDailyLimit": 1,
+        "features": [
+          "الوصول الأساسي",
+          "حدود يومية قياسية"
+        ]
+      },
+      "Plus": {
+        "name": "Plus",
+        "price": 4.99,
+        "currency": "JOD",
+        "durationDays": 30,
+        "active": true,
+        "visible": true,
+        "dailyTasks": 60,
+        "weeklyTasks": 0,
+        "monthlyTasks": 0,
+        "maxPerTask": 2,
+        "priority": "high",
+        "minLevel": 0,
+        "withdrawalMin": 5,
+        "withdrawalDailyLimit": 3,
+        "features": [
+          "مهام أكثر",
+          "أولوية أفضل",
+          "مهام Plus"
+        ]
+      },
+      "Premium": {
+        "name": "Premium",
+        "price": 9.99,
+        "currency": "JOD",
+        "durationDays": 30,
+        "active": true,
+        "visible": true,
+        "dailyTasks": 100,
+        "weeklyTasks": 0,
+        "monthlyTasks": 0,
+        "maxPerTask": 3,
+        "priority": "highest",
+        "minLevel": 0,
+        "withdrawalMin": 5,
+        "withdrawalDailyLimit": 5,
+        "features": [
+          "أعلى أولوية",
+          "ميزات Premium",
+          "حدود أعلى"
+        ]
+      }
+    },
+    "withdrawalFeePercent": 0,
+    "withdrawalFeeFixed": 0,
+    "featureFlags": {},
+    "maintenanceMessage": "Tasko قيد الصيانة مؤقتاً."
+  },
+  "rules": {
+    "passwordMin": 8,
+    "requireUpper": true,
+    "requireLower": true,
+    "requireNumber": true,
+    "requireSpecial": true
+  },
+  "coupons": [],
+  "postbacks": [],
+  "sessions": [
+    {
+      "token": "cafee06b8ea53e6e54f93a8d3eafa054795ab33511cf0efeb6d491744bbf05e9",
+      "userId": "owner",
+      "portal": "admin",
+      "expires": "2026-09-22T01:27:16.172Z"
+    },
+    {
+      "token": "ad0041f926ebfbfb2b4caaa19db5e36cff4793e8e716c15eb6ecaaa7fa9096cd",
+      "userId": "owner",
+      "portal": "admin",
+      "expires": "2026-09-22T01:27:16.214Z"
+    },
+    {
+      "token": "8f062602dacb0a7e9f2e2f96f0c0e61842fdbdc1a04f50ecadbad0dd7aca74ef",
+      "userId": "user_demo",
+      "portal": "user",
+      "expires": "2026-09-22T19:05:59.340Z"
+    },
+    {
+      "token": "173f8c900a75485626b6fc006ea64c5ed2dc2b508e85f0a0e8c2973d84edfbad",
+      "userId": "user_demo",
+      "portal": "user",
+      "expires": "2026-09-22T19:06:07.161Z"
+    },
+    {
+      "token": "b5662f575e52ba9960d4bc44fc198e66de9025f9c97f4445f34d6d71006c9197",
+      "userId": "owner",
+      "portal": "admin",
+      "expires": "2026-09-24T00:08:53.173Z"
+    },
+    {
+      "token": "5051646a7dc4cd4ebb9767075332560affe42add68ef4beed4c956342b61abb5",
+      "userId": "user_demo",
+      "portal": "user",
+      "expires": "2026-09-26T16:31:59.734Z"
+    },
+    {
+      "token": "a353e3e716d41c1af3d24505438a56acdcf6e30c1f1b5900712877a672197bd5",
+      "userId": "owner",
+      "portal": "admin",
+      "expires": "2026-09-26T16:32:02.916Z"
+    },
+    {
+      "token": "4803a263dab3525c35cb33b8d6298ed15ad754ed270126797ec2bfeaca4a28de",
+      "userId": "owner",
+      "portal": "admin",
+      "expires": "2026-09-26T16:32:11.421Z"
+    },
+    {
+      "token": "c6488ab78bcfc34334e3523a6ea65da1f86f1e153c31c94d977f03ddbec80605",
+      "userId": "user_demo",
+      "portal": "user",
+      "expires": "2026-09-26T16:42:37.754Z"
+    },
+    {
+      "token": "6f0f01d6514909bd57b97d1ed6a49875f8db1dd55bbaafe2ae54a0e7c7a1a83b",
+      "userId": "user_demo",
+      "portal": "user",
+      "expires": "2026-09-26T16:42:40.602Z"
+    },
+    {
+      "token": "4f569c40b4a5836851b32ec2bd374b437e0353d0bf7437024ee8161cd4419a5d",
+      "userId": "owner",
+      "portal": "admin",
+      "expires": "2026-09-26T16:42:58.039Z"
+    },
+    {
+      "token": "6ce7d9399754f5e3cfcf891c099bf339093eb6b71f68aba439fd9f7f3172af00",
+      "userId": "advertiser_demo",
+      "portal": "advertiser",
+      "expires": "2026-09-26T16:43:09.208Z"
+    },
+    {
+      "token": "94d76edd263db8e2dc9a02f1d95a2407e090748444f974110a2f55211a27701f",
+      "userId": "owner",
+      "portal": "admin",
+      "expires": "2026-09-26T16:43:40.089Z"
+    },
+    {
+      "token": "44c06e244af6368b9bb38dcf1cc4a8dc1cf4e1142b6135734861a2bdff724bee",
+      "userId": "owner",
+      "portal": "admin",
+      "expires": "2026-09-26T16:43:42.244Z"
+    }
+  ],
+  "resetTokens": [],
+  "errors": [],
+  "notes": [],
+  "archived": {
+    "users": [],
+    "campaigns": [],
+    "tasks": [],
+    "withdrawals": []
+  },
+  "savedFilters": [],
+  "backups": []
+}
