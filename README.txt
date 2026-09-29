@@ -67,3 +67,14 @@ V20 — Comprehensive Tasko workflow/account pass
 - Added user/advertiser settings access and removed advertiser financial/user-wallet fields from advertiser account views.
 - User task cards no longer expose advertiser budget/spend.
 - Added countries.json to the project and kept data/db.json in the V20 archive.
+
+
+V21 — Public-site, authentication, mobile navigation, task/package/reward UX pass
+- Reworked public pages into full, detailed user-facing content without repeated login/business buttons.
+- Added searchable FAQ with a broad practical question set.
+- Unified User Login/Create Account into one page with tabs and branded Google/Facebook buttons.
+- Added bilingual country/city suggestions and retained free city entry for valid countries.
+- Replaced duplicated authenticated menu buttons with one stable menu control and fixed Tasko branding placement.
+- Reworked task cards/details by task type and added remaining participant information for campaigns when configured.
+- Reworked user packages into publication-ready detail cards and a full detail modal; no direct activation from the package card.
+- Reworked Rewards Store with search, real category filtering, sorting and pagination (24 per page) for large catalogs.
