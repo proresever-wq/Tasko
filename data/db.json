@@ -5,7 +5,7 @@
       "name": "Tasko Owner",
       "email": "owner@tasko.test",
       "phone": "+962790000000",
-      "password": "scrypt$45aaf58df41bfec16c3649bbd9991443$cd2d2e1e44cb0d5a53e51d0b918044009b55e54e8b05882a6894b510a8ef6ddc7e0be6f96a55b58f98b1fbc8bb31c4e90a0a4c845a10fa906fbf7f62e709c2bf",
+      "password": "scrypt$609675ff9af000689fee6b0a1f7fc809$6104e1051e289f298778af3ae2e9b5080bf39de641f5be852f861f544e52a3c282ee1d79813faf1448c1cef18cfbdf17791e0469a309ab8ca4ea8889ec00ce43",
       "role": "owner",
       "permissions": [
         "users",
@@ -32,7 +32,7 @@
       "cash": 0,
       "package": "Free",
       "createdAt": "2026-09-15T01:27:15.180Z",
-      "lastLogin": "2026-09-29T15:44:02.969Z",
+      "lastLogin": "2026-09-29T16:39:26.038Z",
       "emailVerified": false,
       "phoneVerified": false,
       "levelId": "bronze",
@@ -46,7 +46,7 @@
       "name": "Tasko Operations Admin",
       "email": "admin@tasko.test",
       "phone": "+962790000001",
-      "password": "scrypt$a53935efa273b37ba371ad5d3f32edf1$faddcf8b75bdf4b36dbe97910bf9061e63fae1d8ab9b3ce2243d832090ab9c9777140f146def22cf64b3c7e37667204778939ef6a7214e38e2370052b0163fa5",
+      "password": "scrypt$a97e1f5da0756f3b656fce686e947c7c$d5aa8c17ac6b10f3b5f5d244d745dcfd921a563693d904898010b4ffe7ba74e29d72cc87e80fb88c319ca33a6e9b3a8147fb3473e7398e33450dbc6d83eb8614",
       "role": "admin",
       "permissions": [
         "users",
@@ -65,7 +65,7 @@
       "cash": 0,
       "package": "Free",
       "createdAt": "2026-09-15T01:27:15.354Z",
-      "lastLogin": "2026-09-29T15:44:00.817Z",
+      "lastLogin": "2026-09-29T16:39:25.988Z",
       "emailVerified": false,
       "phoneVerified": false,
       "levelId": "bronze",
@@ -79,7 +79,7 @@
       "name": "Tasko Demo User",
       "email": "user@tasko.test",
       "phone": "+962790000002",
-      "password": "scrypt$4f021da97f71d4dccd6e43e901c8d52f$4c75c7cb09b46a43f396a2a92ade003c3772e4fbe8e523748304cf978baff6dc8e177b081499593b4f761677021f35ffbf4ba48b514a308200a6e5e4f7954a7e",
+      "password": "scrypt$ba3635e03229d059006af419774b2f6c$802f7c8d1e2eee7df0db7003e77717296eaed97bbd372ca2f950d82dc2327df9b0bfc839b79aac3847091d0dbb85c5262ab500ab8391619ead758e6ee6e413c3",
       "role": "user",
       "permissions": [],
       "accountState": "Normal",
@@ -88,7 +88,7 @@
       "cash": 0,
       "package": "Free",
       "createdAt": "2026-09-15T01:27:15.387Z",
-      "lastLogin": "2026-09-29T15:44:00.120Z",
+      "lastLogin": "2026-09-29T16:39:25.879Z",
       "emailVerified": false,
       "phoneVerified": false,
       "levelId": "bronze",
@@ -101,7 +101,7 @@
       "name": "Tasko Users Admin",
       "email": "admin-users@tasko.test",
       "phone": "+962790000004",
-      "password": "scrypt$95c0bc012464030af5deeda2e813924e$2c127c26cab94a26e1a1371c6e86f0ccb3c8e325257604bd02d9b7f2f967f479ad4980b861fc30ed38a1e3b195b44cad24411e7492c19f527cc9354803ba9e2f",
+      "password": "scrypt$6f3d7e9808530d01c8f40da4744d2ded$acfd4b671a1af03fd77c6683c2baf7896c5554f46a769b8d38c9d58b1efb2e975902c4f4996fac7187c31b9084687f4bd0afaaa17ddc07c3a0a654707eb2882f",
       "role": "admin",
       "permissions": [
         "users",
@@ -129,7 +129,7 @@
       "name": "Tasko Tasks Admin",
       "email": "admin-tasks@tasko.test",
       "phone": "+962790000005",
-      "password": "scrypt$84f586e67bca5fa2fa1c5a6fa1e2198b$0964eaa1353fcd6eec70cdf2847bd3cd94fe0f7e9c9f092c2d7fe3ea809a5149fc10f7ff533ef6be515e0b53cf573aafdc4e0b10e72f3edd857d74c9dfb2d7ba",
+      "password": "scrypt$058565892e104dbd4f35acab891c11cb$160f772f54d97ea69eeb7d1d263c2e1006b31a7e80661789dbf087a7e9fa62d8127ea789a7a6f5610d6a2a6ed5a16de585c42056b36f17e3fbe7f69068ef9679",
       "role": "admin",
       "permissions": [
         "tasks",
@@ -157,7 +157,7 @@
       "name": "Tasko Support Admin",
       "email": "support@tasko.test",
       "phone": "+962790000006",
-      "password": "scrypt$98c8cbdf98d9a5ee75010a7524c90975$66251c92e88641270120507783fb249ca9e33499d440d26fe5bcf53ce8d095ff60d2bbaa57d6c84ed97fdb9cf515dbcb29fc41f16f2c4ccfad07b56836ce8580",
+      "password": "scrypt$3964ccd9809934a7b9d7faa101db15cf$acfb04a8df18b3ac03774a88d56c96cd61e264aa0f093b049d283f1b109ae277921def360ac0ffd1657af57fdf264fff98a02be3ce5921ebbdfe34c1d0f14730",
       "role": "admin",
       "permissions": [
         "support",
@@ -184,7 +184,7 @@
       "name": "Tasko Test User 1",
       "email": "user1@tasko.test",
       "phone": "+962790000007",
-      "password": "scrypt$04456637b15ff43359cba1c04c90a4b4$874f4d613719c37064862c2481c95c8b36bb95311f975af1153ab14e0ab4483e5d84b83d0af742c1f8a66188b95d365081a2d2d1de0aafdd521f3b286b34a420",
+      "password": "scrypt$074d09ac74fe3f656146f6ba0fa32791$ba3a010f3229d10745b4011d04a5bcbe1bf045442e80773410f1672d5be55032a39c868e0ef898f7fa56a3c5c3406f8fa53f097464ba0ca1372cba36c367fe3a",
       "role": "user",
       "permissions": [],
       "accountState": "Normal",
@@ -206,7 +206,7 @@
       "name": "Tasko Advertiser 1",
       "email": "advertiser1@tasko.test",
       "phone": "+962790000008",
-      "password": "scrypt$312dbd71d5901a71e808e2ea8aa39d27$f948411ff9fbd08300d79d57106ee0de62e4cdc4489772d400607aa83e4af49d2a4b8cb641caa3f9716d96d648bc9f806e5ec8f913d6c2fa02abf72d10be0c60",
+      "password": "scrypt$59068a3f823719539b7c5ec653079896$c063cfc626c30a12b9373f2fe1291fe2fea32a99e2d25c233396839716bb23c3e0c7df60fae5d5af6d3d60217b3f4eefbe47e1b39a2c1f2f1bc18efb7fd0f798",
       "role": "advertiser",
       "permissions": [],
       "accountState": "Normal",
@@ -229,7 +229,7 @@
       "name": "Tasko VIP Advertiser",
       "email": "vip-advertiser@tasko.test",
       "phone": "+962790000009",
-      "password": "scrypt$ed5874c79b4d8298c4014ccc4fcbece5$45326992319e8c8f9dfbf0b588c8447fe0cf1efc9e103f0fba29c8d8accaa64d28e8f1e351841d00204865a801395f629397b235b49b6b0167e4bbfb32c170c0",
+      "password": "scrypt$d16664cc40050d92cabd2d57f306233d$49a3e315654bdef1e9b8387d56dd1bd0fa91029833efe9f61dbcf93b12315f340094263bd499959ad537eedfd9cb36679aaf3393e6a0253345fe43d225ba1eb3",
       "role": "advertiser",
       "permissions": [],
       "accountState": "Normal",
@@ -252,7 +252,7 @@
       "name": "Tasko Demo Advertiser",
       "email": "advertiser@tasko.test",
       "phone": "+962790000003",
-      "password": "scrypt$bfc0cf6067bcb85c349f9385466e1661$b87865bfc546caf5dcaacf2cf2adb025e3f061343b0c9054f410aeae3db3d1afc7217dda8d75b3b3e484168943a471399f8bd52a998223d37f39add42ad2f830",
+      "password": "scrypt$cb1f46d1de379dfc168e08ff357a8bac$d4bea7ceba734004e27f5ae88e4fe00f18da70be79ec00fc0662c70a4ec5be68c469386414c6f85b34e968a50f4eeebdc18690645293a1ed88f963b984a9d63a",
       "role": "advertiser",
       "permissions": [],
       "accountState": "Normal",
@@ -261,7 +261,7 @@
       "cash": 0,
       "package": "Free",
       "createdAt": "2026-09-15T01:27:15.624Z",
-      "lastLogin": "2026-09-29T15:44:01.488Z",
+      "lastLogin": "2026-09-29T16:39:25.935Z",
       "company": "Demo Advertiser",
       "emailVerified": false,
       "phoneVerified": false,
@@ -275,7 +275,7 @@
       "name": "Tasko Owner 2",
       "email": "owner2@tasko.test",
       "phone": "+962790000010",
-      "password": "scrypt$aecc0804909e5225953f5459102436d9$e30b9784bae2ce28110ce5c19a9ce396f626661c1daa2d8039c04b68a10f4c2e037d06adb1487f3df3d8e607e5f0f6b1ae5c20dd0b3a091fbcf64da0d542f2b8",
+      "password": "scrypt$d4709f74eee229068c06a579ef02d1d8$4e437f342358d2e529a4eb2ba9b89e76e3834cc07888dbf0fd2791fae4bf506f787b65cb050bd74bcbfde6dab9994dd2a855c3d091155b2ff97df55bd95179e9",
       "role": "owner",
       "permissions": [
         "users",
@@ -510,6 +510,90 @@
   ],
   "attempts": [],
   "activities": [
+    {
+      "id": "act_7dd45ea277f349",
+      "userId": "owner",
+      "type": "login",
+      "at": "2026-09-29T16:39:26.038Z",
+      "portal": "owner"
+    },
+    {
+      "id": "act_6f59ea994185de",
+      "userId": "admin_demo",
+      "type": "login",
+      "at": "2026-09-29T16:39:25.988Z",
+      "portal": "admin"
+    },
+    {
+      "id": "act_79ef806f651c6a",
+      "userId": "advertiser_demo",
+      "type": "login",
+      "at": "2026-09-29T16:39:25.935Z",
+      "portal": "advertiser"
+    },
+    {
+      "id": "act_3db79a1013bbd6",
+      "userId": "user_demo",
+      "type": "login",
+      "at": "2026-09-29T16:39:25.880Z",
+      "portal": "user"
+    },
+    {
+      "id": "act_cd35ccce3a172f",
+      "userId": "admin_demo",
+      "type": "login",
+      "at": "2026-09-29T16:37:56.599Z",
+      "portal": "admin"
+    },
+    {
+      "id": "act_6ed9d587ab3a64",
+      "userId": "admin_demo",
+      "type": "login",
+      "at": "2026-09-29T16:37:50.087Z",
+      "portal": "admin"
+    },
+    {
+      "id": "act_05cd325124c107",
+      "userId": "admin_demo",
+      "type": "login",
+      "at": "2026-09-29T16:36:48.217Z",
+      "portal": "admin"
+    },
+    {
+      "id": "act_7672dd93b19d3f",
+      "userId": "user_demo",
+      "type": "login",
+      "at": "2026-09-29T16:36:41.943Z",
+      "portal": "user"
+    },
+    {
+      "id": "act_8b05a0c0010b24",
+      "userId": "owner",
+      "type": "login",
+      "at": "2026-09-29T16:36:28.579Z",
+      "portal": "owner"
+    },
+    {
+      "id": "act_c9da18703b79ce",
+      "userId": "admin_demo",
+      "type": "login",
+      "at": "2026-09-29T16:36:28.526Z",
+      "portal": "admin"
+    },
+    {
+      "id": "act_d5f4d8d0a95179",
+      "userId": "advertiser_demo",
+      "type": "login",
+      "at": "2026-09-29T16:36:28.480Z",
+      "portal": "advertiser"
+    },
+    {
+      "id": "act_c5f7648551d72c",
+      "userId": "user_demo",
+      "type": "login",
+      "at": "2026-09-29T16:36:28.438Z",
+      "portal": "user"
+    },
     {
       "id": "act_9c01776bf13b96",
       "userId": "owner",
@@ -1113,53 +1197,7 @@
       "processedBy": null
     }
   ],
-  "sessions": [
-    {
-      "token": "53550831b96201b79cbf231c55748e45987db91878d162008a07eb3f6b85de51",
-      "userId": "user_demo",
-      "portal": "user",
-      "ip": "::ffff:127.0.0.1",
-      "userAgent": "curl/8.10.1",
-      "createdAt": "2026-09-29T15:44:00.119Z",
-      "expires": "2026-10-06T15:44:00.120Z"
-    },
-    {
-      "token": "94eabc60ee8128effcb3c49710b6ce41805dbde39e7a16681534f980f086063d",
-      "userId": "admin_demo",
-      "portal": "admin",
-      "ip": "::ffff:127.0.0.1",
-      "userAgent": "curl/8.10.1",
-      "createdAt": "2026-09-29T15:44:00.817Z",
-      "expires": "2026-10-06T15:44:00.817Z"
-    },
-    {
-      "token": "8cf6826fb010499c5aa46ede9d93b18561c6fe7f20a5b8a357d7e2276bf881d9",
-      "userId": "advertiser_demo",
-      "portal": "advertiser",
-      "ip": "::ffff:127.0.0.1",
-      "userAgent": "curl/8.10.1",
-      "createdAt": "2026-09-29T15:44:01.488Z",
-      "expires": "2026-10-06T15:44:01.488Z"
-    },
-    {
-      "token": "075a5359861c9c094c5210f3ee7c0dc42b2e8e38dd204bad4cfc48aae5aeedee",
-      "userId": "owner",
-      "portal": "owner",
-      "ip": "::ffff:127.0.0.1",
-      "userAgent": "curl/8.10.1",
-      "createdAt": "2026-09-29T15:44:02.299Z",
-      "expires": "2026-10-06T15:44:02.299Z"
-    },
-    {
-      "token": "8feee75f22c2c6f801a16edd994f674f66547b2a2164f466bf8dbf70063dd809",
-      "userId": "owner",
-      "portal": "owner",
-      "ip": "::ffff:127.0.0.1",
-      "userAgent": "curl/8.10.1",
-      "createdAt": "2026-09-29T15:44:02.969Z",
-      "expires": "2026-10-06T15:44:02.969Z"
-    }
-  ],
+  "sessions": [],
   "resetTokens": [],
   "errors": [],
   "notes": [],
@@ -1172,6 +1210,48 @@
   "savedFilters": [],
   "backups": [],
   "healthChecks": [
+    {
+      "id": "HC_e01fe2aecc66d7",
+      "at": "2026-09-29T16:38:34.591Z",
+      "timezone": "Asia/Amman",
+      "status": "ok",
+      "issues": 0,
+      "counts": {
+        "users": 11,
+        "campaigns": 1,
+        "attempts": 0,
+        "withdrawals": 0,
+        "transactions": 0
+      }
+    },
+    {
+      "id": "HC_b8fd6cd14be29e",
+      "at": "2026-09-29T16:37:01.889Z",
+      "timezone": "Asia/Amman",
+      "status": "ok",
+      "issues": 0,
+      "counts": {
+        "users": 11,
+        "campaigns": 1,
+        "attempts": 0,
+        "withdrawals": 0,
+        "transactions": 0
+      }
+    },
+    {
+      "id": "HC_a8b092ad4ee211",
+      "at": "2026-09-29T16:35:21.026Z",
+      "timezone": "Asia/Amman",
+      "status": "ok",
+      "issues": 0,
+      "counts": {
+        "users": 11,
+        "campaigns": 1,
+        "attempts": 0,
+        "withdrawals": 0,
+        "transactions": 0
+      }
+    },
     {
       "id": "HC_2352f10d9accf5",
       "at": "2026-09-29T15:44:00.761Z",
