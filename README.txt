@@ -57,3 +57,13 @@ TASKO V19 — targeted security/consistency fixes
 - Fixed the four login-page Turnstile initialization branches so initialization is scheduled before return.
 - index.html uses /css/main.css and /js/app.js, matching the project directories.
 - V19 verification: server/client syntax checks and live role-login smoke tests.
+
+
+V20 — Comprehensive Tasko workflow/account pass
+- V19 retained as the direct base; no rebuild/recreation.
+- Completed the requested account/login architecture across User, Advertiser, Admin and Owner portals, including session persistence/remember-device behavior, password recovery/change, profile settings, session visibility, role separation and direct administrative credentials.
+- Added country catalog for all supported world countries except Israel, bilingual country presentation and free searchable city entry with capital suggestions; backend rejects Israel and invalid/empty locations.
+- Strengthened task/campaign submission rate limits, withdrawal rate limits/verification gates, reward redemption idempotency, and package lifecycle snapshots/dates.
+- Added user/advertiser settings access and removed advertiser financial/user-wallet fields from advertiser account views.
+- User task cards no longer expose advertiser budget/spend.
+- Added countries.json to the project and kept data/db.json in the V20 archive.
