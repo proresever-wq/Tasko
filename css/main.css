@@ -79,3 +79,21 @@ aside{position:sticky;top:72px;height:calc(100dvh - 72px);min-height:calc(100dvh
 .publicShell{min-height:100vh;background:var(--bg);color:var(--text)}.publicTop{position:sticky;top:0;z-index:50;display:flex;align-items:center;justify-content:space-between;gap:20px;padding:14px 28px;background:rgba(255,255,255,.94);backdrop-filter:blur(14px);border-bottom:1px solid var(--line)}.publicTop nav{display:flex;gap:18px;flex-wrap:wrap;justify-content:center}.publicTop nav a,.publicShell footer a{color:var(--text);text-decoration:none;font-weight:700}.publicHero{max-width:1200px;margin:0 auto;padding:70px 24px;display:grid;grid-template-columns:1.2fr .8fr;gap:30px;align-items:center}.publicHero h1{font-size:52px;line-height:1.1}.publicHero p{font-size:18px;line-height:1.9;color:var(--muted);max-width:700px}.publicVisual{display:grid;gap:16px}.publicVisual .card{min-height:150px;background:linear-gradient(135deg,#0d203a,#24588a);color:#fff}.publicVisual strong{display:block;font-size:32px;margin:8px 0}.publicGrid{max-width:1200px;margin:0 auto;padding:0 24px 60px;display:grid;grid-template-columns:repeat(3,1fr);gap:16px}.publicGrid a{text-decoration:none;color:inherit}.publicShell footer{padding:28px 24px;text-align:center;border-top:1px solid var(--line);color:var(--muted)}.publicDoc{max-width:900px;margin:70px auto;padding:42px;line-height:2}.publicDoc p{font-size:18px;color:var(--muted)}.desktopCollapse{margin-inline-end:auto}.activityTimeline{display:grid;gap:0;max-height:70vh;overflow:auto}.activityItem{display:flex;justify-content:space-between;gap:16px;padding:16px 4px;border-bottom:1px solid var(--line)}.activityItem small{display:block;color:var(--muted);margin-top:4px}.activityValue{font-weight:800;white-space:nowrap}.packageAdmin{margin-bottom:14px}.actionCenter{max-width:calc(100vw - 24px)}
 @media(max-width:900px){.publicTop{padding:12px 15px;flex-wrap:wrap}.publicTop nav{order:3;width:100%;overflow:auto;justify-content:flex-start}.publicHero{grid-template-columns:1fr;padding:45px 17px}.publicHero h1{font-size:37px}.publicGrid{grid-template-columns:1fr;padding:0 17px 40px}.publicDoc{margin:30px 17px;padding:24px}.desktopCollapse{display:none!important}}
 @media(max-width:800px){.topUser .avatarBtn{display:grid}.actionCenter{right:12px;left:12px;top:76px}.actionCenter button{width:100%;justify-content:center}.modal{width:100%;max-height:92vh}.fullModalBody{padding:15px}.btn{min-height:42px}.input{min-height:44px}.publicTop .btn{padding:9px 11px}.publicHero .row,.publicDoc .row{flex-wrap:wrap}}
+
+
+/* V20 mobile/accessibility and account UX */
+.accountHeaderBtn{background:transparent;color:var(--text);font-weight:800;max-width:260px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.emergencyBox{background:#fff;border:1px solid var(--line);border-radius:20px;padding:20px;box-shadow:var(--shadow)}
+@media(max-width:800px){
+  .desktopCollapse{display:none!important}
+  .topUser .accountHeaderBtn{display:none}
+  .top{gap:8px}
+  .main{padding:14px;overflow-x:hidden}
+  .shell{width:100%;overflow:visible}
+  aside{right:-290px!important;left:auto!important}
+  .shell.open aside{right:0!important}
+  .nav button{min-height:46px;font-size:15px}
+  .card,.modal{max-width:100%;overflow-wrap:anywhere}
+  .tableWrap{max-width:100%;-webkit-overflow-scrolling:touch}
+  .searchRow,.grid2,.grid3,.grid4{min-width:0}
+}
