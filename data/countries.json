@@ -1,1 +1,3131 @@
-
+[
+  {
+    "code": "AW",
+    "key": "ABW",
+    "nameEn": "Aruba",
+    "nameAr": "أروبا",
+    "capital": "Oranjestad",
+    "cities": [
+      {
+        "en": "Oranjestad",
+        "ar": "Oranjestad"
+      }
+    ]
+  },
+  {
+    "code": "AF",
+    "key": "AFG",
+    "nameEn": "Afghanistan",
+    "nameAr": "أفغانستان",
+    "capital": "Kabul",
+    "cities": [
+      {
+        "en": "Kabul",
+        "ar": "Kabul"
+      }
+    ]
+  },
+  {
+    "code": "AO",
+    "key": "AGO",
+    "nameEn": "Angola",
+    "nameAr": "أنغولا",
+    "capital": "Luanda",
+    "cities": [
+      {
+        "en": "Luanda",
+        "ar": "لواندا"
+      }
+    ]
+  },
+  {
+    "code": "AI",
+    "key": "AIA",
+    "nameEn": "Anguilla",
+    "nameAr": "أنغويلا",
+    "capital": "The Valley",
+    "cities": [
+      {
+        "en": "The Valley",
+        "ar": "The Valley"
+      }
+    ]
+  },
+  {
+    "code": "AX",
+    "key": "ALA",
+    "nameEn": "Åland Islands",
+    "nameAr": "جزر آلاند",
+    "capital": "",
+    "cities": []
+  },
+  {
+    "code": "AL",
+    "key": "ALB",
+    "nameEn": "Albania",
+    "nameAr": "ألبانيا",
+    "capital": "Tirana",
+    "cities": [
+      {
+        "en": "Tirana",
+        "ar": "تيرانا"
+      }
+    ]
+  },
+  {
+    "code": "AD",
+    "key": "AND",
+    "nameEn": "Andorra",
+    "nameAr": "أندورا",
+    "capital": "",
+    "cities": []
+  },
+  {
+    "code": "AE",
+    "key": "ARE",
+    "nameEn": "United Arab Emirates",
+    "nameAr": "الإمارات العربية المتحدة",
+    "capital": "Abu Dhabi",
+    "cities": [
+      {
+        "en": "Abu Dhabi",
+        "ar": "أبوظبي"
+      }
+    ]
+  },
+  {
+    "code": "AR",
+    "key": "ARG",
+    "nameEn": "Argentina",
+    "nameAr": "الأرجنتين",
+    "capital": "Buenos Aires",
+    "cities": [
+      {
+        "en": "Buenos Aires",
+        "ar": "بوينس آيرس"
+      }
+    ]
+  },
+  {
+    "code": "AM",
+    "key": "ARM",
+    "nameEn": "Armenia",
+    "nameAr": "أرمينيا",
+    "capital": "Yerevan",
+    "cities": [
+      {
+        "en": "Yerevan",
+        "ar": "يريفان"
+      }
+    ]
+  },
+  {
+    "code": "AS",
+    "key": "ASM",
+    "nameEn": "American Samoa",
+    "nameAr": "ساموا الأمريكية",
+    "capital": "Pago Pago",
+    "cities": [
+      {
+        "en": "Pago Pago",
+        "ar": "Pago Pago"
+      }
+    ]
+  },
+  {
+    "code": "AQ",
+    "key": "ATA",
+    "nameEn": "Antarctica",
+    "nameAr": "أنتاركتيكا",
+    "capital": "",
+    "cities": []
+  },
+  {
+    "code": "TF",
+    "key": "ATF",
+    "nameEn": "French Southern Territories",
+    "nameAr": "الأقاليم الجنوبية الفرنسية",
+    "capital": "Port-aux-Français",
+    "cities": [
+      {
+        "en": "Port-aux-Français",
+        "ar": "Port-aux-Français"
+      }
+    ]
+  },
+  {
+    "code": "AG",
+    "key": "ATG",
+    "nameEn": "Antigua and Barbuda",
+    "nameAr": "أنتيغوا وبربودا",
+    "capital": "Saint John's",
+    "cities": [
+      {
+        "en": "Saint John's",
+        "ar": "Saint John's"
+      }
+    ]
+  },
+  {
+    "code": "AU",
+    "key": "AUS",
+    "nameEn": "Australia",
+    "nameAr": "أستراليا",
+    "capital": "Canberra",
+    "cities": [
+      {
+        "en": "Canberra",
+        "ar": "كانبيرا"
+      }
+    ]
+  },
+  {
+    "code": "AT",
+    "key": "AUT",
+    "nameEn": "Austria",
+    "nameAr": "النمسا",
+    "capital": "Vienna",
+    "cities": [
+      {
+        "en": "Vienna",
+        "ar": "فيينا"
+      }
+    ]
+  },
+  {
+    "code": "AZ",
+    "key": "AZE",
+    "nameEn": "Azerbaijan",
+    "nameAr": "أذربيجان",
+    "capital": "Baku",
+    "cities": [
+      {
+        "en": "Baku",
+        "ar": "باكو"
+      }
+    ]
+  },
+  {
+    "code": "BI",
+    "key": "BDI",
+    "nameEn": "Burundi",
+    "nameAr": "بوروندي",
+    "capital": "Bujumbura",
+    "cities": [
+      {
+        "en": "Bujumbura",
+        "ar": "Bujumbura"
+      }
+    ]
+  },
+  {
+    "code": "BE",
+    "key": "BEL",
+    "nameEn": "Belgium",
+    "nameAr": "بلجيكا",
+    "capital": "Brussels",
+    "cities": [
+      {
+        "en": "Brussels",
+        "ar": "بروكسل"
+      }
+    ]
+  },
+  {
+    "code": "BJ",
+    "key": "BEN",
+    "nameEn": "Benin",
+    "nameAr": "بنين",
+    "capital": "Porto-Novo",
+    "cities": [
+      {
+        "en": "Porto-Novo",
+        "ar": "Porto-Novo"
+      }
+    ]
+  },
+  {
+    "code": "BQ",
+    "key": "BES",
+    "nameEn": "Bonaire, Sint Eustatius and Saba",
+    "nameAr": "هولندا الكاريبية",
+    "capital": "",
+    "cities": []
+  },
+  {
+    "code": "BF",
+    "key": "BFA",
+    "nameEn": "Burkina Faso",
+    "nameAr": "بوركينا فاسو",
+    "capital": "Ouagadougou",
+    "cities": [
+      {
+        "en": "Ouagadougou",
+        "ar": "Ouagadougou"
+      }
+    ]
+  },
+  {
+    "code": "BD",
+    "key": "BGD",
+    "nameEn": "Bangladesh",
+    "nameAr": "بنغلاديش",
+    "capital": "Dhaka",
+    "cities": [
+      {
+        "en": "Dhaka",
+        "ar": "دكا"
+      }
+    ]
+  },
+  {
+    "code": "BG",
+    "key": "BGR",
+    "nameEn": "Bulgaria",
+    "nameAr": "بلغاريا",
+    "capital": "Sofia",
+    "cities": [
+      {
+        "en": "Sofia",
+        "ar": "صوفيا"
+      }
+    ]
+  },
+  {
+    "code": "BH",
+    "key": "BHR",
+    "nameEn": "Bahrain",
+    "nameAr": "البحرين",
+    "capital": "Manama",
+    "cities": [
+      {
+        "en": "Manama",
+        "ar": "المنامة"
+      }
+    ]
+  },
+  {
+    "code": "BS",
+    "key": "BHS",
+    "nameEn": "Bahamas",
+    "nameAr": "جزر البهاما",
+    "capital": "Nassau",
+    "cities": [
+      {
+        "en": "Nassau",
+        "ar": "Nassau"
+      }
+    ]
+  },
+  {
+    "code": "BA",
+    "key": "BIH",
+    "nameEn": "Bosnia and Herzegovina",
+    "nameAr": "البوسنة والهرسك",
+    "capital": "Sarajevo",
+    "cities": [
+      {
+        "en": "Sarajevo",
+        "ar": "سراييفو"
+      }
+    ]
+  },
+  {
+    "code": "BL",
+    "key": "BLM",
+    "nameEn": "Saint Barthélemy",
+    "nameAr": "سان بارتليمي",
+    "capital": "",
+    "cities": []
+  },
+  {
+    "code": "BY",
+    "key": "BLR",
+    "nameEn": "Belarus",
+    "nameAr": "بيلاروس",
+    "capital": "Minsk",
+    "cities": [
+      {
+        "en": "Minsk",
+        "ar": "مينسك"
+      }
+    ]
+  },
+  {
+    "code": "BZ",
+    "key": "BLZ",
+    "nameEn": "Belize",
+    "nameAr": "بليز",
+    "capital": "Belmopan",
+    "cities": [
+      {
+        "en": "Belmopan",
+        "ar": "Belmopan"
+      }
+    ]
+  },
+  {
+    "code": "BM",
+    "key": "BMU",
+    "nameEn": "Bermuda",
+    "nameAr": "برمودا",
+    "capital": "Hamilton",
+    "cities": [
+      {
+        "en": "Hamilton",
+        "ar": "Hamilton"
+      }
+    ]
+  },
+  {
+    "code": "BO",
+    "key": "BOL",
+    "nameEn": "Bolivia, Plurinational State of",
+    "nameAr": "بوليفيا",
+    "capital": "Sucre",
+    "cities": [
+      {
+        "en": "Sucre",
+        "ar": "Sucre"
+      }
+    ]
+  },
+  {
+    "code": "BR",
+    "key": "BRA",
+    "nameEn": "Brazil",
+    "nameAr": "البرازيل",
+    "capital": "Brasília",
+    "cities": [
+      {
+        "en": "Brasília",
+        "ar": "Brasília"
+      }
+    ]
+  },
+  {
+    "code": "BB",
+    "key": "BRB",
+    "nameEn": "Barbados",
+    "nameAr": "بربادوس",
+    "capital": "Bridgetown",
+    "cities": [
+      {
+        "en": "Bridgetown",
+        "ar": "Bridgetown"
+      }
+    ]
+  },
+  {
+    "code": "BN",
+    "key": "BRN",
+    "nameEn": "Brunei Darussalam",
+    "nameAr": "بروناي",
+    "capital": "Bandar Seri Begawan",
+    "cities": [
+      {
+        "en": "Bandar Seri Begawan",
+        "ar": "بندر سري بكاوان"
+      }
+    ]
+  },
+  {
+    "code": "BT",
+    "key": "BTN",
+    "nameEn": "Bhutan",
+    "nameAr": "بوتان",
+    "capital": "Thimphu",
+    "cities": [
+      {
+        "en": "Thimphu",
+        "ar": "Thimphu"
+      }
+    ]
+  },
+  {
+    "code": "BV",
+    "key": "BVT",
+    "nameEn": "Bouvet Island",
+    "nameAr": "جزيرة بوفيه",
+    "capital": "",
+    "cities": []
+  },
+  {
+    "code": "BW",
+    "key": "BWA",
+    "nameEn": "Botswana",
+    "nameAr": "بوتسوانا",
+    "capital": "Gaborone",
+    "cities": [
+      {
+        "en": "Gaborone",
+        "ar": "غابورون"
+      }
+    ]
+  },
+  {
+    "code": "CF",
+    "key": "CAF",
+    "nameEn": "Central African Republic",
+    "nameAr": "جمهورية أفريقيا الوسطى",
+    "capital": "Bangui",
+    "cities": [
+      {
+        "en": "Bangui",
+        "ar": "Bangui"
+      }
+    ]
+  },
+  {
+    "code": "CA",
+    "key": "CAN",
+    "nameEn": "Canada",
+    "nameAr": "كندا",
+    "capital": "Ottawa",
+    "cities": [
+      {
+        "en": "Ottawa",
+        "ar": "أوتاوا"
+      }
+    ]
+  },
+  {
+    "code": "CC",
+    "key": "CCK",
+    "nameEn": "Cocos (Keeling) Islands",
+    "nameAr": "جزر كوكوس (كيلينغ)",
+    "capital": "West Island",
+    "cities": [
+      {
+        "en": "West Island",
+        "ar": "West Island"
+      }
+    ]
+  },
+  {
+    "code": "CH",
+    "key": "CHE",
+    "nameEn": "Switzerland",
+    "nameAr": "سويسرا",
+    "capital": "Bern",
+    "cities": [
+      {
+        "en": "Bern",
+        "ar": "Bern"
+      }
+    ]
+  },
+  {
+    "code": "CL",
+    "key": "CHL",
+    "nameEn": "Chile",
+    "nameAr": "تشيلي",
+    "capital": "Santiago",
+    "cities": [
+      {
+        "en": "Santiago",
+        "ar": "سانتياغو"
+      }
+    ]
+  },
+  {
+    "code": "CN",
+    "key": "CHN",
+    "nameEn": "China",
+    "nameAr": "الصين",
+    "capital": "Beijing",
+    "cities": [
+      {
+        "en": "Beijing",
+        "ar": "بكين"
+      }
+    ]
+  },
+  {
+    "code": "CI",
+    "key": "CIV",
+    "nameEn": "Côte d'Ivoire",
+    "nameAr": "ساحل العاج",
+    "capital": "Yamoussoukro",
+    "cities": [
+      {
+        "en": "Yamoussoukro",
+        "ar": "Yamoussoukro"
+      }
+    ]
+  },
+  {
+    "code": "CM",
+    "key": "CMR",
+    "nameEn": "Cameroon",
+    "nameAr": "الكاميرون",
+    "capital": "Yaoundé",
+    "cities": [
+      {
+        "en": "Yaoundé",
+        "ar": "Yaoundé"
+      }
+    ]
+  },
+  {
+    "code": "CD",
+    "key": "COD",
+    "nameEn": "Congo, The Democratic Republic of the",
+    "nameAr": "الكونغو - كينشاسا",
+    "capital": "Kinshasa",
+    "cities": [
+      {
+        "en": "Kinshasa",
+        "ar": "Kinshasa"
+      }
+    ]
+  },
+  {
+    "code": "CG",
+    "key": "COG",
+    "nameEn": "Congo",
+    "nameAr": "الكونغو - برازافيل",
+    "capital": "Brazzaville",
+    "cities": [
+      {
+        "en": "Brazzaville",
+        "ar": "Brazzaville"
+      }
+    ]
+  },
+  {
+    "code": "CK",
+    "key": "COK",
+    "nameEn": "Cook Islands",
+    "nameAr": "جزر كوك",
+    "capital": "Avarua",
+    "cities": [
+      {
+        "en": "Avarua",
+        "ar": "Avarua"
+      }
+    ]
+  },
+  {
+    "code": "CO",
+    "key": "COL",
+    "nameEn": "Colombia",
+    "nameAr": "كولومبيا",
+    "capital": "Bogotá",
+    "cities": [
+      {
+        "en": "Bogotá",
+        "ar": "Bogotá"
+      }
+    ]
+  },
+  {
+    "code": "KM",
+    "key": "COM",
+    "nameEn": "Comoros",
+    "nameAr": "جزر القمر",
+    "capital": "Moroni",
+    "cities": [
+      {
+        "en": "Moroni",
+        "ar": "Moroni"
+      }
+    ]
+  },
+  {
+    "code": "CV",
+    "key": "CPV",
+    "nameEn": "Cabo Verde",
+    "nameAr": "الرأس الأخضر",
+    "capital": "Praia",
+    "cities": [
+      {
+        "en": "Praia",
+        "ar": "Praia"
+      }
+    ]
+  },
+  {
+    "code": "CR",
+    "key": "CRI",
+    "nameEn": "Costa Rica",
+    "nameAr": "كوستاريكا",
+    "capital": "San José",
+    "cities": [
+      {
+        "en": "San José",
+        "ar": "San José"
+      }
+    ]
+  },
+  {
+    "code": "CU",
+    "key": "CUB",
+    "nameEn": "Cuba",
+    "nameAr": "كوبا",
+    "capital": "Havana",
+    "cities": [
+      {
+        "en": "Havana",
+        "ar": "Havana"
+      }
+    ]
+  },
+  {
+    "code": "CW",
+    "key": "CUW",
+    "nameEn": "Curaçao",
+    "nameAr": "كوراساو",
+    "capital": "",
+    "cities": []
+  },
+  {
+    "code": "CX",
+    "key": "CXR",
+    "nameEn": "Christmas Island",
+    "nameAr": "جزيرة كريسماس",
+    "capital": "Flying Fish Cove",
+    "cities": [
+      {
+        "en": "Flying Fish Cove",
+        "ar": "Flying Fish Cove"
+      }
+    ]
+  },
+  {
+    "code": "KY",
+    "key": "CYM",
+    "nameEn": "Cayman Islands",
+    "nameAr": "جزر كايمان",
+    "capital": "George Town",
+    "cities": [
+      {
+        "en": "George Town",
+        "ar": "George Town"
+      }
+    ]
+  },
+  {
+    "code": "CY",
+    "key": "CYP",
+    "nameEn": "Cyprus",
+    "nameAr": "قبرص",
+    "capital": "Nicosia",
+    "cities": [
+      {
+        "en": "Nicosia",
+        "ar": "نيقوسيا"
+      }
+    ]
+  },
+  {
+    "code": "CZ",
+    "key": "CZE",
+    "nameEn": "Czechia",
+    "nameAr": "التشيك",
+    "capital": "Prague",
+    "cities": [
+      {
+        "en": "Prague",
+        "ar": "براغ"
+      }
+    ]
+  },
+  {
+    "code": "DE",
+    "key": "DEU",
+    "nameEn": "Germany",
+    "nameAr": "ألمانيا",
+    "capital": "Berlin",
+    "cities": [
+      {
+        "en": "Berlin",
+        "ar": "برلين"
+      }
+    ]
+  },
+  {
+    "code": "DJ",
+    "key": "DJI",
+    "nameEn": "Djibouti",
+    "nameAr": "جيبوتي",
+    "capital": "Djibouti",
+    "cities": [
+      {
+        "en": "Djibouti",
+        "ar": "جيبوتي"
+      }
+    ]
+  },
+  {
+    "code": "DM",
+    "key": "DMA",
+    "nameEn": "Dominica",
+    "nameAr": "دومينيكا",
+    "capital": "Roseau",
+    "cities": [
+      {
+        "en": "Roseau",
+        "ar": "Roseau"
+      }
+    ]
+  },
+  {
+    "code": "DK",
+    "key": "DNK",
+    "nameEn": "Denmark",
+    "nameAr": "الدانمرك",
+    "capital": "Copenhagen",
+    "cities": [
+      {
+        "en": "Copenhagen",
+        "ar": "كوبنهاغن"
+      }
+    ]
+  },
+  {
+    "code": "DO",
+    "key": "DOM",
+    "nameEn": "Dominican Republic",
+    "nameAr": "جمهورية الدومينيكان",
+    "capital": "Santo Domingo",
+    "cities": [
+      {
+        "en": "Santo Domingo",
+        "ar": "Santo Domingo"
+      }
+    ]
+  },
+  {
+    "code": "DZ",
+    "key": "DZA",
+    "nameEn": "Algeria",
+    "nameAr": "الجزائر",
+    "capital": "Algiers",
+    "cities": [
+      {
+        "en": "Algiers",
+        "ar": "الجزائر"
+      }
+    ]
+  },
+  {
+    "code": "EC",
+    "key": "ECU",
+    "nameEn": "Ecuador",
+    "nameAr": "الإكوادور",
+    "capital": "Quito",
+    "cities": [
+      {
+        "en": "Quito",
+        "ar": "Quito"
+      }
+    ]
+  },
+  {
+    "code": "EG",
+    "key": "EGY",
+    "nameEn": "Egypt",
+    "nameAr": "مصر",
+    "capital": "Cairo",
+    "cities": [
+      {
+        "en": "Cairo",
+        "ar": "القاهرة"
+      }
+    ]
+  },
+  {
+    "code": "ER",
+    "key": "ERI",
+    "nameEn": "Eritrea",
+    "nameAr": "إريتريا",
+    "capital": "Asmara",
+    "cities": [
+      {
+        "en": "Asmara",
+        "ar": "Asmara"
+      }
+    ]
+  },
+  {
+    "code": "EH",
+    "key": "ESH",
+    "nameEn": "Western Sahara",
+    "nameAr": "الصحراء الغربية",
+    "capital": "El Aaiún",
+    "cities": [
+      {
+        "en": "El Aaiún",
+        "ar": "El Aaiún"
+      }
+    ]
+  },
+  {
+    "code": "ES",
+    "key": "ESP",
+    "nameEn": "Spain",
+    "nameAr": "إسبانيا",
+    "capital": "Madrid",
+    "cities": [
+      {
+        "en": "Madrid",
+        "ar": "مدريد"
+      }
+    ]
+  },
+  {
+    "code": "EE",
+    "key": "EST",
+    "nameEn": "Estonia",
+    "nameAr": "إستونيا",
+    "capital": "Tallinn",
+    "cities": [
+      {
+        "en": "Tallinn",
+        "ar": "تالين"
+      }
+    ]
+  },
+  {
+    "code": "ET",
+    "key": "ETH",
+    "nameEn": "Ethiopia",
+    "nameAr": "إثيوبيا",
+    "capital": "Addis Ababa",
+    "cities": [
+      {
+        "en": "Addis Ababa",
+        "ar": "أديس أبابا"
+      }
+    ]
+  },
+  {
+    "code": "FI",
+    "key": "FIN",
+    "nameEn": "Finland",
+    "nameAr": "فنلندا",
+    "capital": "Helsinki",
+    "cities": [
+      {
+        "en": "Helsinki",
+        "ar": "هلسنكي"
+      }
+    ]
+  },
+  {
+    "code": "FJ",
+    "key": "FJI",
+    "nameEn": "Fiji",
+    "nameAr": "فيجي",
+    "capital": "Suva",
+    "cities": [
+      {
+        "en": "Suva",
+        "ar": "سوفا"
+      }
+    ]
+  },
+  {
+    "code": "FK",
+    "key": "FLK",
+    "nameEn": "Falkland Islands (Malvinas)",
+    "nameAr": "جزر فوكلاند",
+    "capital": "Stanley",
+    "cities": [
+      {
+        "en": "Stanley",
+        "ar": "Stanley"
+      }
+    ]
+  },
+  {
+    "code": "FR",
+    "key": "FRA",
+    "nameEn": "France",
+    "nameAr": "فرنسا",
+    "capital": "Paris",
+    "cities": [
+      {
+        "en": "Paris",
+        "ar": "باريس"
+      }
+    ]
+  },
+  {
+    "code": "FO",
+    "key": "FRO",
+    "nameEn": "Faroe Islands",
+    "nameAr": "جزر فارو",
+    "capital": "Tórshavn",
+    "cities": [
+      {
+        "en": "Tórshavn",
+        "ar": "Tórshavn"
+      }
+    ]
+  },
+  {
+    "code": "FM",
+    "key": "FSM",
+    "nameEn": "Micronesia, Federated States of",
+    "nameAr": "ميكرونيزيا",
+    "capital": "Palikir",
+    "cities": [
+      {
+        "en": "Palikir",
+        "ar": "Palikir"
+      }
+    ]
+  },
+  {
+    "code": "GA",
+    "key": "GAB",
+    "nameEn": "Gabon",
+    "nameAr": "الغابون",
+    "capital": "Libreville",
+    "cities": [
+      {
+        "en": "Libreville",
+        "ar": "Libreville"
+      }
+    ]
+  },
+  {
+    "code": "GB",
+    "key": "GBR",
+    "nameEn": "United Kingdom",
+    "nameAr": "المملكة المتحدة",
+    "capital": "London",
+    "cities": [
+      {
+        "en": "London",
+        "ar": "لندن"
+      }
+    ]
+  },
+  {
+    "code": "GE",
+    "key": "GEO",
+    "nameEn": "Georgia",
+    "nameAr": "جورجيا",
+    "capital": "Tbilisi",
+    "cities": [
+      {
+        "en": "Tbilisi",
+        "ar": "تبليسي"
+      }
+    ]
+  },
+  {
+    "code": "GG",
+    "key": "GGY",
+    "nameEn": "Guernsey",
+    "nameAr": "غيرنزي",
+    "capital": "St. Peter Port",
+    "cities": [
+      {
+        "en": "St. Peter Port",
+        "ar": "St. Peter Port"
+      }
+    ]
+  },
+  {
+    "code": "GH",
+    "key": "GHA",
+    "nameEn": "Ghana",
+    "nameAr": "غانا",
+    "capital": "Accra",
+    "cities": [
+      {
+        "en": "Accra",
+        "ar": "أكرا"
+      }
+    ]
+  },
+  {
+    "code": "GI",
+    "key": "GIB",
+    "nameEn": "Gibraltar",
+    "nameAr": "جبل طارق",
+    "capital": "Gibraltar",
+    "cities": [
+      {
+        "en": "Gibraltar",
+        "ar": "Gibraltar"
+      }
+    ]
+  },
+  {
+    "code": "GN",
+    "key": "GIN",
+    "nameEn": "Guinea",
+    "nameAr": "غينيا",
+    "capital": "Conakry",
+    "cities": [
+      {
+        "en": "Conakry",
+        "ar": "Conakry"
+      }
+    ]
+  },
+  {
+    "code": "GP",
+    "key": "GLP",
+    "nameEn": "Guadeloupe",
+    "nameAr": "غوادلوب",
+    "capital": "Basse-Terre",
+    "cities": [
+      {
+        "en": "Basse-Terre",
+        "ar": "Basse-Terre"
+      }
+    ]
+  },
+  {
+    "code": "GM",
+    "key": "GMB",
+    "nameEn": "Gambia",
+    "nameAr": "غامبيا",
+    "capital": "Banjul",
+    "cities": [
+      {
+        "en": "Banjul",
+        "ar": "Banjul"
+      }
+    ]
+  },
+  {
+    "code": "GW",
+    "key": "GNB",
+    "nameEn": "Guinea-Bissau",
+    "nameAr": "غينيا بيساو",
+    "capital": "Bissau",
+    "cities": [
+      {
+        "en": "Bissau",
+        "ar": "Bissau"
+      }
+    ]
+  },
+  {
+    "code": "GQ",
+    "key": "GNQ",
+    "nameEn": "Equatorial Guinea",
+    "nameAr": "غينيا الاستوائية",
+    "capital": "Malabo",
+    "cities": [
+      {
+        "en": "Malabo",
+        "ar": "Malabo"
+      }
+    ]
+  },
+  {
+    "code": "GR",
+    "key": "GRC",
+    "nameEn": "Greece",
+    "nameAr": "اليونان",
+    "capital": "Athens",
+    "cities": [
+      {
+        "en": "Athens",
+        "ar": "أثينا"
+      }
+    ]
+  },
+  {
+    "code": "GD",
+    "key": "GRD",
+    "nameEn": "Grenada",
+    "nameAr": "غرينادا",
+    "capital": "St. George's",
+    "cities": [
+      {
+        "en": "St. George's",
+        "ar": "St. George's"
+      }
+    ]
+  },
+  {
+    "code": "GL",
+    "key": "GRL",
+    "nameEn": "Greenland",
+    "nameAr": "غرينلاند",
+    "capital": "Nuuk",
+    "cities": [
+      {
+        "en": "Nuuk",
+        "ar": "Nuuk"
+      }
+    ]
+  },
+  {
+    "code": "GT",
+    "key": "GTM",
+    "nameEn": "Guatemala",
+    "nameAr": "غواتيمالا",
+    "capital": "Guatemala City",
+    "cities": [
+      {
+        "en": "Guatemala City",
+        "ar": "Guatemala City"
+      }
+    ]
+  },
+  {
+    "code": "GF",
+    "key": "GUF",
+    "nameEn": "French Guiana",
+    "nameAr": "غويانا الفرنسية",
+    "capital": "Cayenne",
+    "cities": [
+      {
+        "en": "Cayenne",
+        "ar": "Cayenne"
+      }
+    ]
+  },
+  {
+    "code": "GU",
+    "key": "GUM",
+    "nameEn": "Guam",
+    "nameAr": "غوام",
+    "capital": "Hagåtña",
+    "cities": [
+      {
+        "en": "Hagåtña",
+        "ar": "Hagåtña"
+      }
+    ]
+  },
+  {
+    "code": "GY",
+    "key": "GUY",
+    "nameEn": "Guyana",
+    "nameAr": "غيانا",
+    "capital": "Georgetown",
+    "cities": [
+      {
+        "en": "Georgetown",
+        "ar": "Georgetown"
+      }
+    ]
+  },
+  {
+    "code": "HK",
+    "key": "HKG",
+    "nameEn": "Hong Kong",
+    "nameAr": "هونغ كونغ الصينية (منطقة إدارية خاصة)",
+    "capital": "City of Victoria",
+    "cities": [
+      {
+        "en": "City of Victoria",
+        "ar": "City of Victoria"
+      }
+    ]
+  },
+  {
+    "code": "HM",
+    "key": "HMD",
+    "nameEn": "Heard Island and McDonald Islands",
+    "nameAr": "جزيرة هيرد وجزر ماكدونالد",
+    "capital": "",
+    "cities": []
+  },
+  {
+    "code": "HN",
+    "key": "HND",
+    "nameEn": "Honduras",
+    "nameAr": "هندوراس",
+    "capital": "Tegucigalpa",
+    "cities": [
+      {
+        "en": "Tegucigalpa",
+        "ar": "Tegucigalpa"
+      }
+    ]
+  },
+  {
+    "code": "HR",
+    "key": "HRV",
+    "nameEn": "Croatia",
+    "nameAr": "كرواتيا",
+    "capital": "Zagreb",
+    "cities": [
+      {
+        "en": "Zagreb",
+        "ar": "زغرب"
+      }
+    ]
+  },
+  {
+    "code": "HT",
+    "key": "HTI",
+    "nameEn": "Haiti",
+    "nameAr": "هايتي",
+    "capital": "Port-au-Prince",
+    "cities": [
+      {
+        "en": "Port-au-Prince",
+        "ar": "Port-au-Prince"
+      }
+    ]
+  },
+  {
+    "code": "HU",
+    "key": "HUN",
+    "nameEn": "Hungary",
+    "nameAr": "هنغاريا",
+    "capital": "Budapest",
+    "cities": [
+      {
+        "en": "Budapest",
+        "ar": "بودابست"
+      }
+    ]
+  },
+  {
+    "code": "ID",
+    "key": "IDN",
+    "nameEn": "Indonesia",
+    "nameAr": "إندونيسيا",
+    "capital": "Jakarta",
+    "cities": [
+      {
+        "en": "Jakarta",
+        "ar": "جاكرتا"
+      }
+    ]
+  },
+  {
+    "code": "IM",
+    "key": "IMN",
+    "nameEn": "Isle of Man",
+    "nameAr": "جزيرة مان",
+    "capital": "Douglas",
+    "cities": [
+      {
+        "en": "Douglas",
+        "ar": "Douglas"
+      }
+    ]
+  },
+  {
+    "code": "IN",
+    "key": "IND",
+    "nameEn": "India",
+    "nameAr": "الهند",
+    "capital": "New Delhi",
+    "cities": [
+      {
+        "en": "New Delhi",
+        "ar": "نيودلهي"
+      }
+    ]
+  },
+  {
+    "code": "IO",
+    "key": "IOT",
+    "nameEn": "British Indian Ocean Territory",
+    "nameAr": "الإقليم البريطاني في المحيط الهندي",
+    "capital": "Diego Garcia",
+    "cities": [
+      {
+        "en": "Diego Garcia",
+        "ar": "Diego Garcia"
+      }
+    ]
+  },
+  {
+    "code": "IE",
+    "key": "IRL",
+    "nameEn": "Ireland",
+    "nameAr": "أيرلندا",
+    "capital": "Dublin",
+    "cities": [
+      {
+        "en": "Dublin",
+        "ar": "دبلن"
+      }
+    ]
+  },
+  {
+    "code": "IR",
+    "key": "IRN",
+    "nameEn": "Iran, Islamic Republic of",
+    "nameAr": "إيران",
+    "capital": "Tehran",
+    "cities": [
+      {
+        "en": "Tehran",
+        "ar": "طهران"
+      }
+    ]
+  },
+  {
+    "code": "IQ",
+    "key": "IRQ",
+    "nameEn": "Iraq",
+    "nameAr": "العراق",
+    "capital": "Baghdad",
+    "cities": [
+      {
+        "en": "Baghdad",
+        "ar": "بغداد"
+      }
+    ]
+  },
+  {
+    "code": "IS",
+    "key": "ISL",
+    "nameEn": "Iceland",
+    "nameAr": "آيسلندا",
+    "capital": "Reykjavik",
+    "cities": [
+      {
+        "en": "Reykjavik",
+        "ar": "ريكيافيك"
+      }
+    ]
+  },
+  {
+    "code": "IT",
+    "key": "ITA",
+    "nameEn": "Italy",
+    "nameAr": "إيطاليا",
+    "capital": "Rome",
+    "cities": [
+      {
+        "en": "Rome",
+        "ar": "روما"
+      }
+    ]
+  },
+  {
+    "code": "JM",
+    "key": "JAM",
+    "nameEn": "Jamaica",
+    "nameAr": "جامايكا",
+    "capital": "Kingston",
+    "cities": [
+      {
+        "en": "Kingston",
+        "ar": "Kingston"
+      }
+    ]
+  },
+  {
+    "code": "JE",
+    "key": "JEY",
+    "nameEn": "Jersey",
+    "nameAr": "جيرسي",
+    "capital": "Saint Helier",
+    "cities": [
+      {
+        "en": "Saint Helier",
+        "ar": "Saint Helier"
+      }
+    ]
+  },
+  {
+    "code": "JO",
+    "key": "JOR",
+    "nameEn": "Jordan",
+    "nameAr": "الأردن",
+    "capital": "Amman",
+    "cities": [
+      {
+        "en": "Amman",
+        "ar": "عمّان"
+      }
+    ]
+  },
+  {
+    "code": "JP",
+    "key": "JPN",
+    "nameEn": "Japan",
+    "nameAr": "اليابان",
+    "capital": "Tokyo",
+    "cities": [
+      {
+        "en": "Tokyo",
+        "ar": "طوكيو"
+      }
+    ]
+  },
+  {
+    "code": "KZ",
+    "key": "KAZ",
+    "nameEn": "Kazakhstan",
+    "nameAr": "كازاخستان",
+    "capital": "Astana",
+    "cities": [
+      {
+        "en": "Astana",
+        "ar": "أستانا"
+      }
+    ]
+  },
+  {
+    "code": "KE",
+    "key": "KEN",
+    "nameEn": "Kenya",
+    "nameAr": "كينيا",
+    "capital": "Nairobi",
+    "cities": [
+      {
+        "en": "Nairobi",
+        "ar": "نيروبي"
+      }
+    ]
+  },
+  {
+    "code": "KG",
+    "key": "KGZ",
+    "nameEn": "Kyrgyzstan",
+    "nameAr": "قيرغيزستان",
+    "capital": "Bishkek",
+    "cities": [
+      {
+        "en": "Bishkek",
+        "ar": "بيشكيك"
+      }
+    ]
+  },
+  {
+    "code": "KH",
+    "key": "KHM",
+    "nameEn": "Cambodia",
+    "nameAr": "كمبوديا",
+    "capital": "Phnom Penh",
+    "cities": [
+      {
+        "en": "Phnom Penh",
+        "ar": "بنوم بنه"
+      }
+    ]
+  },
+  {
+    "code": "KI",
+    "key": "KIR",
+    "nameEn": "Kiribati",
+    "nameAr": "كيريباتي",
+    "capital": "South Tarawa",
+    "cities": [
+      {
+        "en": "South Tarawa",
+        "ar": "South Tarawa"
+      }
+    ]
+  },
+  {
+    "code": "KN",
+    "key": "KNA",
+    "nameEn": "Saint Kitts and Nevis",
+    "nameAr": "سانت كيتس ونيفيس",
+    "capital": "Basseterre",
+    "cities": [
+      {
+        "en": "Basseterre",
+        "ar": "Basseterre"
+      }
+    ]
+  },
+  {
+    "code": "KR",
+    "key": "KOR",
+    "nameEn": "Korea, Republic of",
+    "nameAr": "كوريا الجنوبية",
+    "capital": "Seoul",
+    "cities": [
+      {
+        "en": "Seoul",
+        "ar": "سيول"
+      }
+    ]
+  },
+  {
+    "code": "KW",
+    "key": "KWT",
+    "nameEn": "Kuwait",
+    "nameAr": "الكويت",
+    "capital": "Kuwait City",
+    "cities": [
+      {
+        "en": "Kuwait City",
+        "ar": "مدينة الكويت"
+      }
+    ]
+  },
+  {
+    "code": "LA",
+    "key": "LAO",
+    "nameEn": "Lao People's Democratic Republic",
+    "nameAr": "لاوس",
+    "capital": "Vientiane",
+    "cities": [
+      {
+        "en": "Vientiane",
+        "ar": "فيينتيان"
+      }
+    ]
+  },
+  {
+    "code": "LB",
+    "key": "LBN",
+    "nameEn": "Lebanon",
+    "nameAr": "لبنان",
+    "capital": "Beirut",
+    "cities": [
+      {
+        "en": "Beirut",
+        "ar": "بيروت"
+      }
+    ]
+  },
+  {
+    "code": "LR",
+    "key": "LBR",
+    "nameEn": "Liberia",
+    "nameAr": "ليبيريا",
+    "capital": "Monrovia",
+    "cities": [
+      {
+        "en": "Monrovia",
+        "ar": "Monrovia"
+      }
+    ]
+  },
+  {
+    "code": "LY",
+    "key": "LBY",
+    "nameEn": "Libya",
+    "nameAr": "ليبيا",
+    "capital": "Tripoli",
+    "cities": [
+      {
+        "en": "Tripoli",
+        "ar": "طرابلس"
+      }
+    ]
+  },
+  {
+    "code": "LC",
+    "key": "LCA",
+    "nameEn": "Saint Lucia",
+    "nameAr": "سانت لوسيا",
+    "capital": "Castries",
+    "cities": [
+      {
+        "en": "Castries",
+        "ar": "Castries"
+      }
+    ]
+  },
+  {
+    "code": "LI",
+    "key": "LIE",
+    "nameEn": "Liechtenstein",
+    "nameAr": "ليختنشتاين",
+    "capital": "Vaduz",
+    "cities": [
+      {
+        "en": "Vaduz",
+        "ar": "Vaduz"
+      }
+    ]
+  },
+  {
+    "code": "LK",
+    "key": "LKA",
+    "nameEn": "Sri Lanka",
+    "nameAr": "سريلانكا",
+    "capital": "Colombo",
+    "cities": [
+      {
+        "en": "Colombo",
+        "ar": "Colombo"
+      }
+    ]
+  },
+  {
+    "code": "LS",
+    "key": "LSO",
+    "nameEn": "Lesotho",
+    "nameAr": "ليسوتو",
+    "capital": "Maseru",
+    "cities": [
+      {
+        "en": "Maseru",
+        "ar": "Maseru"
+      }
+    ]
+  },
+  {
+    "code": "LT",
+    "key": "LTU",
+    "nameEn": "Lithuania",
+    "nameAr": "ليتوانيا",
+    "capital": "Vilnius",
+    "cities": [
+      {
+        "en": "Vilnius",
+        "ar": "فيلنيوس"
+      }
+    ]
+  },
+  {
+    "code": "LU",
+    "key": "LUX",
+    "nameEn": "Luxembourg",
+    "nameAr": "لوكسمبورغ",
+    "capital": "Luxembourg",
+    "cities": [
+      {
+        "en": "Luxembourg",
+        "ar": "Luxembourg"
+      }
+    ]
+  },
+  {
+    "code": "LV",
+    "key": "LVA",
+    "nameEn": "Latvia",
+    "nameAr": "لاتفيا",
+    "capital": "Riga",
+    "cities": [
+      {
+        "en": "Riga",
+        "ar": "ريغا"
+      }
+    ]
+  },
+  {
+    "code": "MO",
+    "key": "MAC",
+    "nameEn": "Macao",
+    "nameAr": "منطقة ماكاو الإدارية الخاصة",
+    "capital": "",
+    "cities": []
+  },
+  {
+    "code": "MF",
+    "key": "MAF",
+    "nameEn": "Saint Martin (French part)",
+    "nameAr": "سان مارتن",
+    "capital": "",
+    "cities": []
+  },
+  {
+    "code": "MA",
+    "key": "MAR",
+    "nameEn": "Morocco",
+    "nameAr": "المغرب",
+    "capital": "Rabat",
+    "cities": [
+      {
+        "en": "Rabat",
+        "ar": "الرباط"
+      }
+    ]
+  },
+  {
+    "code": "MC",
+    "key": "MCO",
+    "nameEn": "Monaco",
+    "nameAr": "موناكو",
+    "capital": "Monaco",
+    "cities": [
+      {
+        "en": "Monaco",
+        "ar": "Monaco"
+      }
+    ]
+  },
+  {
+    "code": "MD",
+    "key": "MDA",
+    "nameEn": "Moldova, Republic of",
+    "nameAr": "مولدوفا",
+    "capital": "Chișinău",
+    "cities": [
+      {
+        "en": "Chișinău",
+        "ar": "Chișinău"
+      }
+    ]
+  },
+  {
+    "code": "MG",
+    "key": "MDG",
+    "nameEn": "Madagascar",
+    "nameAr": "مدغشقر",
+    "capital": "Antananarivo",
+    "cities": [
+      {
+        "en": "Antananarivo",
+        "ar": "أنتاناناريفو"
+      }
+    ]
+  },
+  {
+    "code": "MV",
+    "key": "MDV",
+    "nameEn": "Maldives",
+    "nameAr": "جزر المالديف",
+    "capital": "Malé",
+    "cities": [
+      {
+        "en": "Malé",
+        "ar": "Malé"
+      }
+    ]
+  },
+  {
+    "code": "MX",
+    "key": "MEX",
+    "nameEn": "Mexico",
+    "nameAr": "المكسيك",
+    "capital": "Mexico City",
+    "cities": [
+      {
+        "en": "Mexico City",
+        "ar": "مكسيكو سيتي"
+      }
+    ]
+  },
+  {
+    "code": "MH",
+    "key": "MHL",
+    "nameEn": "Marshall Islands",
+    "nameAr": "جزر مارشال",
+    "capital": "Majuro",
+    "cities": [
+      {
+        "en": "Majuro",
+        "ar": "Majuro"
+      }
+    ]
+  },
+  {
+    "code": "MK",
+    "key": "MKD",
+    "nameEn": "North Macedonia",
+    "nameAr": "مقدونيا الشمالية",
+    "capital": "Skopje",
+    "cities": [
+      {
+        "en": "Skopje",
+        "ar": "سكوبيه"
+      }
+    ]
+  },
+  {
+    "code": "ML",
+    "key": "MLI",
+    "nameEn": "Mali",
+    "nameAr": "مالي",
+    "capital": "Bamako",
+    "cities": [
+      {
+        "en": "Bamako",
+        "ar": "Bamako"
+      }
+    ]
+  },
+  {
+    "code": "MT",
+    "key": "MLT",
+    "nameEn": "Malta",
+    "nameAr": "مالطا",
+    "capital": "Valletta",
+    "cities": [
+      {
+        "en": "Valletta",
+        "ar": "Valletta"
+      }
+    ]
+  },
+  {
+    "code": "MM",
+    "key": "MMR",
+    "nameEn": "Myanmar",
+    "nameAr": "ميانمار (بورما)",
+    "capital": "",
+    "cities": []
+  },
+  {
+    "code": "ME",
+    "key": "MNE",
+    "nameEn": "Montenegro",
+    "nameAr": "الجبل الأسود",
+    "capital": "",
+    "cities": []
+  },
+  {
+    "code": "MN",
+    "key": "MNG",
+    "nameEn": "Mongolia",
+    "nameAr": "منغوليا",
+    "capital": "Ulan Bator",
+    "cities": [
+      {
+        "en": "Ulan Bator",
+        "ar": "Ulan Bator"
+      }
+    ]
+  },
+  {
+    "code": "MP",
+    "key": "MNP",
+    "nameEn": "Northern Mariana Islands",
+    "nameAr": "جزر ماريانا الشمالية",
+    "capital": "Saipan",
+    "cities": [
+      {
+        "en": "Saipan",
+        "ar": "Saipan"
+      }
+    ]
+  },
+  {
+    "code": "MZ",
+    "key": "MOZ",
+    "nameEn": "Mozambique",
+    "nameAr": "موزمبيق",
+    "capital": "Maputo",
+    "cities": [
+      {
+        "en": "Maputo",
+        "ar": "مابوتو"
+      }
+    ]
+  },
+  {
+    "code": "MR",
+    "key": "MRT",
+    "nameEn": "Mauritania",
+    "nameAr": "موريتانيا",
+    "capital": "Nouakchott",
+    "cities": [
+      {
+        "en": "Nouakchott",
+        "ar": "Nouakchott"
+      }
+    ]
+  },
+  {
+    "code": "MS",
+    "key": "MSR",
+    "nameEn": "Montserrat",
+    "nameAr": "مونتسرات",
+    "capital": "Plymouth",
+    "cities": [
+      {
+        "en": "Plymouth",
+        "ar": "Plymouth"
+      }
+    ]
+  },
+  {
+    "code": "MQ",
+    "key": "MTQ",
+    "nameEn": "Martinique",
+    "nameAr": "جزر المارتينيك",
+    "capital": "Fort-de-France",
+    "cities": [
+      {
+        "en": "Fort-de-France",
+        "ar": "Fort-de-France"
+      }
+    ]
+  },
+  {
+    "code": "MU",
+    "key": "MUS",
+    "nameEn": "Mauritius",
+    "nameAr": "موريشيوس",
+    "capital": "Port Louis",
+    "cities": [
+      {
+        "en": "Port Louis",
+        "ar": "بورت لويس"
+      }
+    ]
+  },
+  {
+    "code": "MW",
+    "key": "MWI",
+    "nameEn": "Malawi",
+    "nameAr": "ملاوي",
+    "capital": "Lilongwe",
+    "cities": [
+      {
+        "en": "Lilongwe",
+        "ar": "Lilongwe"
+      }
+    ]
+  },
+  {
+    "code": "MY",
+    "key": "MYS",
+    "nameEn": "Malaysia",
+    "nameAr": "ماليزيا",
+    "capital": "Kuala Lumpur",
+    "cities": [
+      {
+        "en": "Kuala Lumpur",
+        "ar": "كوالالمبور"
+      }
+    ]
+  },
+  {
+    "code": "YT",
+    "key": "MYT",
+    "nameEn": "Mayotte",
+    "nameAr": "مايوت",
+    "capital": "Mamoudzou",
+    "cities": [
+      {
+        "en": "Mamoudzou",
+        "ar": "Mamoudzou"
+      }
+    ]
+  },
+  {
+    "code": "NA",
+    "key": "NAM",
+    "nameEn": "Namibia",
+    "nameAr": "ناميبيا",
+    "capital": "Windhoek",
+    "cities": [
+      {
+        "en": "Windhoek",
+        "ar": "ويندهوك"
+      }
+    ]
+  },
+  {
+    "code": "NC",
+    "key": "NCL",
+    "nameEn": "New Caledonia",
+    "nameAr": "كاليدونيا الجديدة",
+    "capital": "Nouméa",
+    "cities": [
+      {
+        "en": "Nouméa",
+        "ar": "Nouméa"
+      }
+    ]
+  },
+  {
+    "code": "NE",
+    "key": "NER",
+    "nameEn": "Niger",
+    "nameAr": "النيجر",
+    "capital": "Niamey",
+    "cities": [
+      {
+        "en": "Niamey",
+        "ar": "Niamey"
+      }
+    ]
+  },
+  {
+    "code": "NF",
+    "key": "NFK",
+    "nameEn": "Norfolk Island",
+    "nameAr": "جزيرة نورفولك",
+    "capital": "Kingston",
+    "cities": [
+      {
+        "en": "Kingston",
+        "ar": "Kingston"
+      }
+    ]
+  },
+  {
+    "code": "NG",
+    "key": "NGA",
+    "nameEn": "Nigeria",
+    "nameAr": "نيجيريا",
+    "capital": "Abuja",
+    "cities": [
+      {
+        "en": "Abuja",
+        "ar": "Abuja"
+      }
+    ]
+  },
+  {
+    "code": "NI",
+    "key": "NIC",
+    "nameEn": "Nicaragua",
+    "nameAr": "نيكاراغوا",
+    "capital": "Managua",
+    "cities": [
+      {
+        "en": "Managua",
+        "ar": "Managua"
+      }
+    ]
+  },
+  {
+    "code": "NU",
+    "key": "NIU",
+    "nameEn": "Niue",
+    "nameAr": "نيوي",
+    "capital": "Alofi",
+    "cities": [
+      {
+        "en": "Alofi",
+        "ar": "Alofi"
+      }
+    ]
+  },
+  {
+    "code": "NL",
+    "key": "NLD",
+    "nameEn": "Netherlands",
+    "nameAr": "هولندا",
+    "capital": "Amsterdam",
+    "cities": [
+      {
+        "en": "Amsterdam",
+        "ar": "أمستردام"
+      }
+    ]
+  },
+  {
+    "code": "NO",
+    "key": "NOR",
+    "nameEn": "Norway",
+    "nameAr": "النرويج",
+    "capital": "Oslo",
+    "cities": [
+      {
+        "en": "Oslo",
+        "ar": "أوسلو"
+      }
+    ]
+  },
+  {
+    "code": "NP",
+    "key": "NPL",
+    "nameEn": "Nepal",
+    "nameAr": "نيبال",
+    "capital": "Kathmandu",
+    "cities": [
+      {
+        "en": "Kathmandu",
+        "ar": "كاتماندو"
+      }
+    ]
+  },
+  {
+    "code": "NR",
+    "key": "NRU",
+    "nameEn": "Nauru",
+    "nameAr": "ناورو",
+    "capital": "Yaren",
+    "cities": [
+      {
+        "en": "Yaren",
+        "ar": "Yaren"
+      }
+    ]
+  },
+  {
+    "code": "NZ",
+    "key": "NZL",
+    "nameEn": "New Zealand",
+    "nameAr": "نيوزيلندا",
+    "capital": "Wellington",
+    "cities": [
+      {
+        "en": "Wellington",
+        "ar": "ويلينغتون"
+      }
+    ]
+  },
+  {
+    "code": "OM",
+    "key": "OMN",
+    "nameEn": "Oman",
+    "nameAr": "عُمان",
+    "capital": "Muscat",
+    "cities": [
+      {
+        "en": "Muscat",
+        "ar": "مسقط"
+      }
+    ]
+  },
+  {
+    "code": "PK",
+    "key": "PAK",
+    "nameEn": "Pakistan",
+    "nameAr": "باكستان",
+    "capital": "Islamabad",
+    "cities": [
+      {
+        "en": "Islamabad",
+        "ar": "إسلام آباد"
+      }
+    ]
+  },
+  {
+    "code": "PA",
+    "key": "PAN",
+    "nameEn": "Panama",
+    "nameAr": "بنما",
+    "capital": "Panama City",
+    "cities": [
+      {
+        "en": "Panama City",
+        "ar": "Panama City"
+      }
+    ]
+  },
+  {
+    "code": "PN",
+    "key": "PCN",
+    "nameEn": "Pitcairn",
+    "nameAr": "جزر بيتكيرن",
+    "capital": "Adamstown",
+    "cities": [
+      {
+        "en": "Adamstown",
+        "ar": "Adamstown"
+      }
+    ]
+  },
+  {
+    "code": "PE",
+    "key": "PER",
+    "nameEn": "Peru",
+    "nameAr": "بيرو",
+    "capital": "Lima",
+    "cities": [
+      {
+        "en": "Lima",
+        "ar": "ليما"
+      }
+    ]
+  },
+  {
+    "code": "PH",
+    "key": "PHL",
+    "nameEn": "Philippines",
+    "nameAr": "الفلبين",
+    "capital": "Manila",
+    "cities": [
+      {
+        "en": "Manila",
+        "ar": "مانيلا"
+      }
+    ]
+  },
+  {
+    "code": "PW",
+    "key": "PLW",
+    "nameEn": "Palau",
+    "nameAr": "بالاو",
+    "capital": "Ngerulmud",
+    "cities": [
+      {
+        "en": "Ngerulmud",
+        "ar": "Ngerulmud"
+      }
+    ]
+  },
+  {
+    "code": "PG",
+    "key": "PNG",
+    "nameEn": "Papua New Guinea",
+    "nameAr": "بابوا غينيا الجديدة",
+    "capital": "Port Moresby",
+    "cities": [
+      {
+        "en": "Port Moresby",
+        "ar": "بورت مورسبي"
+      }
+    ]
+  },
+  {
+    "code": "PL",
+    "key": "POL",
+    "nameEn": "Poland",
+    "nameAr": "بولندا",
+    "capital": "Warsaw",
+    "cities": [
+      {
+        "en": "Warsaw",
+        "ar": "وارسو"
+      }
+    ]
+  },
+  {
+    "code": "PR",
+    "key": "PRI",
+    "nameEn": "Puerto Rico",
+    "nameAr": "بورتوريكو",
+    "capital": "San Juan",
+    "cities": [
+      {
+        "en": "San Juan",
+        "ar": "San Juan"
+      }
+    ]
+  },
+  {
+    "code": "KP",
+    "key": "PRK",
+    "nameEn": "Korea, Democratic People's Republic of",
+    "nameAr": "كوريا الشمالية",
+    "capital": "Pyongyang",
+    "cities": [
+      {
+        "en": "Pyongyang",
+        "ar": "Pyongyang"
+      }
+    ]
+  },
+  {
+    "code": "PT",
+    "key": "PRT",
+    "nameEn": "Portugal",
+    "nameAr": "البرتغال",
+    "capital": "Lisbon",
+    "cities": [
+      {
+        "en": "Lisbon",
+        "ar": "لشبونة"
+      }
+    ]
+  },
+  {
+    "code": "PY",
+    "key": "PRY",
+    "nameEn": "Paraguay",
+    "nameAr": "باراغواي",
+    "capital": "Asunción",
+    "cities": [
+      {
+        "en": "Asunción",
+        "ar": "Asunción"
+      }
+    ]
+  },
+  {
+    "code": "PS",
+    "key": "PSE",
+    "nameEn": "Palestine, State of",
+    "nameAr": "الأراضي الفلسطينية",
+    "capital": "",
+    "cities": []
+  },
+  {
+    "code": "PF",
+    "key": "PYF",
+    "nameEn": "French Polynesia",
+    "nameAr": "بولينيزيا الفرنسية",
+    "capital": "Papeetē",
+    "cities": [
+      {
+        "en": "Papeetē",
+        "ar": "Papeetē"
+      }
+    ]
+  },
+  {
+    "code": "QA",
+    "key": "QAT",
+    "nameEn": "Qatar",
+    "nameAr": "قطر",
+    "capital": "Doha",
+    "cities": [
+      {
+        "en": "Doha",
+        "ar": "الدوحة"
+      }
+    ]
+  },
+  {
+    "code": "RE",
+    "key": "REU",
+    "nameEn": "Réunion",
+    "nameAr": "روينيون",
+    "capital": "Saint-Denis",
+    "cities": [
+      {
+        "en": "Saint-Denis",
+        "ar": "Saint-Denis"
+      }
+    ]
+  },
+  {
+    "code": "RO",
+    "key": "ROU",
+    "nameEn": "Romania",
+    "nameAr": "رومانيا",
+    "capital": "Bucharest",
+    "cities": [
+      {
+        "en": "Bucharest",
+        "ar": "بوخارست"
+      }
+    ]
+  },
+  {
+    "code": "RU",
+    "key": "RUS",
+    "nameEn": "Russian Federation",
+    "nameAr": "روسيا",
+    "capital": "Moscow",
+    "cities": [
+      {
+        "en": "Moscow",
+        "ar": "موسكو"
+      }
+    ]
+  },
+  {
+    "code": "RW",
+    "key": "RWA",
+    "nameEn": "Rwanda",
+    "nameAr": "رواندا",
+    "capital": "Kigali",
+    "cities": [
+      {
+        "en": "Kigali",
+        "ar": "Kigali"
+      }
+    ]
+  },
+  {
+    "code": "SA",
+    "key": "SAU",
+    "nameEn": "Saudi Arabia",
+    "nameAr": "المملكة العربية السعودية",
+    "capital": "Riyadh",
+    "cities": [
+      {
+        "en": "Riyadh",
+        "ar": "الرياض"
+      }
+    ]
+  },
+  {
+    "code": "SD",
+    "key": "SDN",
+    "nameEn": "Sudan",
+    "nameAr": "السودان",
+    "capital": "Khartoum",
+    "cities": [
+      {
+        "en": "Khartoum",
+        "ar": "الخرطوم"
+      }
+    ]
+  },
+  {
+    "code": "SN",
+    "key": "SEN",
+    "nameEn": "Senegal",
+    "nameAr": "السنغال",
+    "capital": "Dakar",
+    "cities": [
+      {
+        "en": "Dakar",
+        "ar": "Dakar"
+      }
+    ]
+  },
+  {
+    "code": "SG",
+    "key": "SGP",
+    "nameEn": "Singapore",
+    "nameAr": "سنغافورة",
+    "capital": "Singapore",
+    "cities": [
+      {
+        "en": "Singapore",
+        "ar": "سنغافورة"
+      }
+    ]
+  },
+  {
+    "code": "GS",
+    "key": "SGS",
+    "nameEn": "South Georgia and the South Sandwich Islands",
+    "nameAr": "جورجيا الجنوبية وجزر ساندويتش الجنوبية",
+    "capital": "King Edward Point",
+    "cities": [
+      {
+        "en": "King Edward Point",
+        "ar": "King Edward Point"
+      }
+    ]
+  },
+  {
+    "code": "SH",
+    "key": "SHN",
+    "nameEn": "Saint Helena, Ascension and Tristan da Cunha",
+    "nameAr": "سانت هيلينا",
+    "capital": "Jamestown",
+    "cities": [
+      {
+        "en": "Jamestown",
+        "ar": "Jamestown"
+      }
+    ]
+  },
+  {
+    "code": "SJ",
+    "key": "SJM",
+    "nameEn": "Svalbard and Jan Mayen",
+    "nameAr": "سفالبارد وجان ماين",
+    "capital": "Longyearbyen",
+    "cities": [
+      {
+        "en": "Longyearbyen",
+        "ar": "Longyearbyen"
+      }
+    ]
+  },
+  {
+    "code": "SB",
+    "key": "SLB",
+    "nameEn": "Solomon Islands",
+    "nameAr": "جزر سليمان",
+    "capital": "Honiara",
+    "cities": [
+      {
+        "en": "Honiara",
+        "ar": "Honiara"
+      }
+    ]
+  },
+  {
+    "code": "SL",
+    "key": "SLE",
+    "nameEn": "Sierra Leone",
+    "nameAr": "سيراليون",
+    "capital": "Freetown",
+    "cities": [
+      {
+        "en": "Freetown",
+        "ar": "Freetown"
+      }
+    ]
+  },
+  {
+    "code": "SV",
+    "key": "SLV",
+    "nameEn": "El Salvador",
+    "nameAr": "السلفادور",
+    "capital": "San Salvador",
+    "cities": [
+      {
+        "en": "San Salvador",
+        "ar": "San Salvador"
+      }
+    ]
+  },
+  {
+    "code": "SM",
+    "key": "SMR",
+    "nameEn": "San Marino",
+    "nameAr": "سان مارينو",
+    "capital": "City of San Marino",
+    "cities": [
+      {
+        "en": "City of San Marino",
+        "ar": "City of San Marino"
+      }
+    ]
+  },
+  {
+    "code": "SO",
+    "key": "SOM",
+    "nameEn": "Somalia",
+    "nameAr": "الصومال",
+    "capital": "Mogadishu",
+    "cities": [
+      {
+        "en": "Mogadishu",
+        "ar": "مقديشو"
+      }
+    ]
+  },
+  {
+    "code": "PM",
+    "key": "SPM",
+    "nameEn": "Saint Pierre and Miquelon",
+    "nameAr": "سان بيير ومكويلون",
+    "capital": "Saint-Pierre",
+    "cities": [
+      {
+        "en": "Saint-Pierre",
+        "ar": "Saint-Pierre"
+      }
+    ]
+  },
+  {
+    "code": "RS",
+    "key": "SRB",
+    "nameEn": "Serbia",
+    "nameAr": "صربيا",
+    "capital": "Belgrade",
+    "cities": [
+      {
+        "en": "Belgrade",
+        "ar": "بلغراد"
+      }
+    ]
+  },
+  {
+    "code": "SS",
+    "key": "SSD",
+    "nameEn": "South Sudan",
+    "nameAr": "جنوب السودان",
+    "capital": "Juba",
+    "cities": [
+      {
+        "en": "Juba",
+        "ar": "Juba"
+      }
+    ]
+  },
+  {
+    "code": "ST",
+    "key": "STP",
+    "nameEn": "Sao Tome and Principe",
+    "nameAr": "ساو تومي وبرينسيبي",
+    "capital": "São Tomé",
+    "cities": [
+      {
+        "en": "São Tomé",
+        "ar": "São Tomé"
+      }
+    ]
+  },
+  {
+    "code": "SR",
+    "key": "SUR",
+    "nameEn": "Suriname",
+    "nameAr": "سورينام",
+    "capital": "Paramaribo",
+    "cities": [
+      {
+        "en": "Paramaribo",
+        "ar": "Paramaribo"
+      }
+    ]
+  },
+  {
+    "code": "SK",
+    "key": "SVK",
+    "nameEn": "Slovakia",
+    "nameAr": "سلوفاكيا",
+    "capital": "Bratislava",
+    "cities": [
+      {
+        "en": "Bratislava",
+        "ar": "براتيسلافا"
+      }
+    ]
+  },
+  {
+    "code": "SI",
+    "key": "SVN",
+    "nameEn": "Slovenia",
+    "nameAr": "سلوفينيا",
+    "capital": "Ljubljana",
+    "cities": [
+      {
+        "en": "Ljubljana",
+        "ar": "ليوبليانا"
+      }
+    ]
+  },
+  {
+    "code": "SE",
+    "key": "SWE",
+    "nameEn": "Sweden",
+    "nameAr": "السويد",
+    "capital": "Stockholm",
+    "cities": [
+      {
+        "en": "Stockholm",
+        "ar": "ستوكهولم"
+      }
+    ]
+  },
+  {
+    "code": "SZ",
+    "key": "SWZ",
+    "nameEn": "Eswatini",
+    "nameAr": "إسواتيني",
+    "capital": "Lobamba",
+    "cities": [
+      {
+        "en": "Lobamba",
+        "ar": "Lobamba"
+      }
+    ]
+  },
+  {
+    "code": "SX",
+    "key": "SXM",
+    "nameEn": "Sint Maarten (Dutch part)",
+    "nameAr": "سانت مارتن",
+    "capital": "",
+    "cities": []
+  },
+  {
+    "code": "SC",
+    "key": "SYC",
+    "nameEn": "Seychelles",
+    "nameAr": "سيشل",
+    "capital": "Victoria",
+    "cities": [
+      {
+        "en": "Victoria",
+        "ar": "Victoria"
+      }
+    ]
+  },
+  {
+    "code": "SY",
+    "key": "SYR",
+    "nameEn": "Syrian Arab Republic",
+    "nameAr": "سوريا",
+    "capital": "Damascus",
+    "cities": [
+      {
+        "en": "Damascus",
+        "ar": "دمشق"
+      }
+    ]
+  },
+  {
+    "code": "TC",
+    "key": "TCA",
+    "nameEn": "Turks and Caicos Islands",
+    "nameAr": "جزر توركس وكايكوس",
+    "capital": "",
+    "cities": []
+  },
+  {
+    "code": "TD",
+    "key": "TCD",
+    "nameEn": "Chad",
+    "nameAr": "تشاد",
+    "capital": "N'Djamena",
+    "cities": [
+      {
+        "en": "N'Djamena",
+        "ar": "N'Djamena"
+      }
+    ]
+  },
+  {
+    "code": "TG",
+    "key": "TGO",
+    "nameEn": "Togo",
+    "nameAr": "توغو",
+    "capital": "Lomé",
+    "cities": [
+      {
+        "en": "Lomé",
+        "ar": "Lomé"
+      }
+    ]
+  },
+  {
+    "code": "TH",
+    "key": "THA",
+    "nameEn": "Thailand",
+    "nameAr": "تايلاند",
+    "capital": "Bangkok",
+    "cities": [
+      {
+        "en": "Bangkok",
+        "ar": "بانكوك"
+      }
+    ]
+  },
+  {
+    "code": "TJ",
+    "key": "TJK",
+    "nameEn": "Tajikistan",
+    "nameAr": "طاجيكستان",
+    "capital": "Dushanbe",
+    "cities": [
+      {
+        "en": "Dushanbe",
+        "ar": "دوشنبه"
+      }
+    ]
+  },
+  {
+    "code": "TK",
+    "key": "TKL",
+    "nameEn": "Tokelau",
+    "nameAr": "توكيلاو",
+    "capital": "Fakaofo",
+    "cities": [
+      {
+        "en": "Fakaofo",
+        "ar": "Fakaofo"
+      }
+    ]
+  },
+  {
+    "code": "TM",
+    "key": "TKM",
+    "nameEn": "Turkmenistan",
+    "nameAr": "تركمانستان",
+    "capital": "Ashgabat",
+    "cities": [
+      {
+        "en": "Ashgabat",
+        "ar": "عشق آباد"
+      }
+    ]
+  },
+  {
+    "code": "TL",
+    "key": "TLS",
+    "nameEn": "Timor-Leste",
+    "nameAr": "تيمور - ليشتي",
+    "capital": "Dili",
+    "cities": [
+      {
+        "en": "Dili",
+        "ar": "ديلي"
+      }
+    ]
+  },
+  {
+    "code": "TO",
+    "key": "TON",
+    "nameEn": "Tonga",
+    "nameAr": "تونغا",
+    "capital": "Nuku'alofa",
+    "cities": [
+      {
+        "en": "Nuku'alofa",
+        "ar": "Nuku'alofa"
+      }
+    ]
+  },
+  {
+    "code": "TT",
+    "key": "TTO",
+    "nameEn": "Trinidad and Tobago",
+    "nameAr": "ترينيداد وتوباغو",
+    "capital": "Port of Spain",
+    "cities": [
+      {
+        "en": "Port of Spain",
+        "ar": "Port of Spain"
+      }
+    ]
+  },
+  {
+    "code": "TN",
+    "key": "TUN",
+    "nameEn": "Tunisia",
+    "nameAr": "تونس",
+    "capital": "Tunis",
+    "cities": [
+      {
+        "en": "Tunis",
+        "ar": "تونس"
+      }
+    ]
+  },
+  {
+    "code": "TR",
+    "key": "TUR",
+    "nameEn": "Türkiye",
+    "nameAr": "تركيا",
+    "capital": "Ankara",
+    "cities": [
+      {
+        "en": "Ankara",
+        "ar": "أنقرة"
+      }
+    ]
+  },
+  {
+    "code": "TV",
+    "key": "TUV",
+    "nameEn": "Tuvalu",
+    "nameAr": "توفالو",
+    "capital": "Funafuti",
+    "cities": [
+      {
+        "en": "Funafuti",
+        "ar": "Funafuti"
+      }
+    ]
+  },
+  {
+    "code": "TW",
+    "key": "TWN",
+    "nameEn": "Taiwan, Province of China",
+    "nameAr": "تايوان",
+    "capital": "Taipei",
+    "cities": [
+      {
+        "en": "Taipei",
+        "ar": "Taipei"
+      }
+    ]
+  },
+  {
+    "code": "TZ",
+    "key": "TZA",
+    "nameEn": "Tanzania, United Republic of",
+    "nameAr": "تنزانيا",
+    "capital": "Dodoma",
+    "cities": [
+      {
+        "en": "Dodoma",
+        "ar": "Dodoma"
+      }
+    ]
+  },
+  {
+    "code": "UG",
+    "key": "UGA",
+    "nameEn": "Uganda",
+    "nameAr": "أوغندا",
+    "capital": "Kampala",
+    "cities": [
+      {
+        "en": "Kampala",
+        "ar": "كمبالا"
+      }
+    ]
+  },
+  {
+    "code": "UA",
+    "key": "UKR",
+    "nameEn": "Ukraine",
+    "nameAr": "أوكرانيا",
+    "capital": "Kiev",
+    "cities": [
+      {
+        "en": "Kiev",
+        "ar": "Kiev"
+      }
+    ]
+  },
+  {
+    "code": "UM",
+    "key": "UMI",
+    "nameEn": "United States Minor Outlying Islands",
+    "nameAr": "جزر الولايات المتحدة النائية",
+    "capital": "",
+    "cities": []
+  },
+  {
+    "code": "UY",
+    "key": "URY",
+    "nameEn": "Uruguay",
+    "nameAr": "أورغواي",
+    "capital": "Montevideo",
+    "cities": [
+      {
+        "en": "Montevideo",
+        "ar": "Montevideo"
+      }
+    ]
+  },
+  {
+    "code": "US",
+    "key": "USA",
+    "nameEn": "United States",
+    "nameAr": "الولايات المتحدة",
+    "capital": "Washington D.C.",
+    "cities": [
+      {
+        "en": "Washington D.C.",
+        "ar": "Washington D.C."
+      }
+    ]
+  },
+  {
+    "code": "UZ",
+    "key": "UZB",
+    "nameEn": "Uzbekistan",
+    "nameAr": "أوزبكستان",
+    "capital": "Tashkent",
+    "cities": [
+      {
+        "en": "Tashkent",
+        "ar": "طشقند"
+      }
+    ]
+  },
+  {
+    "code": "VA",
+    "key": "VAT",
+    "nameEn": "Holy See (Vatican City State)",
+    "nameAr": "الفاتيكان",
+    "capital": "",
+    "cities": []
+  },
+  {
+    "code": "VC",
+    "key": "VCT",
+    "nameEn": "Saint Vincent and the Grenadines",
+    "nameAr": "سانت فنسنت وجزر غرينادين",
+    "capital": "Kingstown",
+    "cities": [
+      {
+        "en": "Kingstown",
+        "ar": "Kingstown"
+      }
+    ]
+  },
+  {
+    "code": "VE",
+    "key": "VEN",
+    "nameEn": "Venezuela, Bolivarian Republic of",
+    "nameAr": "فنزويلا",
+    "capital": "Caracas",
+    "cities": [
+      {
+        "en": "Caracas",
+        "ar": "كاراكاس"
+      }
+    ]
+  },
+  {
+    "code": "VG",
+    "key": "VGB",
+    "nameEn": "Virgin Islands, British",
+    "nameAr": "جزر فيرجن البريطانية",
+    "capital": "",
+    "cities": []
+  },
+  {
+    "code": "VI",
+    "key": "VIR",
+    "nameEn": "Virgin Islands, U.S.",
+    "nameAr": "جزر فيرجن الأمريكية",
+    "capital": "",
+    "cities": []
+  },
+  {
+    "code": "VN",
+    "key": "VNM",
+    "nameEn": "Viet Nam",
+    "nameAr": "فيتنام",
+    "capital": "Hanoi",
+    "cities": [
+      {
+        "en": "Hanoi",
+        "ar": "هانوي"
+      }
+    ]
+  },
+  {
+    "code": "VU",
+    "key": "VUT",
+    "nameEn": "Vanuatu",
+    "nameAr": "فانواتو",
+    "capital": "Port Vila",
+    "cities": [
+      {
+        "en": "Port Vila",
+        "ar": "Port Vila"
+      }
+    ]
+  },
+  {
+    "code": "WF",
+    "key": "WLF",
+    "nameEn": "Wallis and Futuna",
+    "nameAr": "جزر والس وفوتونا",
+    "capital": "Mata-Utu",
+    "cities": [
+      {
+        "en": "Mata-Utu",
+        "ar": "Mata-Utu"
+      }
+    ]
+  },
+  {
+    "code": "WS",
+    "key": "WSM",
+    "nameEn": "Samoa",
+    "nameAr": "ساموا",
+    "capital": "Apia",
+    "cities": [
+      {
+        "en": "Apia",
+        "ar": "Apia"
+      }
+    ]
+  },
+  {
+    "code": "YE",
+    "key": "YEM",
+    "nameEn": "Yemen",
+    "nameAr": "اليمن",
+    "capital": "Sana'a",
+    "cities": [
+      {
+        "en": "Sana'a",
+        "ar": "Sana'a"
+      }
+    ]
+  },
+  {
+    "code": "ZA",
+    "key": "ZAF",
+    "nameEn": "South Africa",
+    "nameAr": "جنوب أفريقيا",
+    "capital": "Pretoria",
+    "cities": [
+      {
+        "en": "Pretoria",
+        "ar": "بريتوريا"
+      }
+    ]
+  },
+  {
+    "code": "ZM",
+    "key": "ZMB",
+    "nameEn": "Zambia",
+    "nameAr": "زامبيا",
+    "capital": "Lusaka",
+    "cities": [
+      {
+        "en": "Lusaka",
+        "ar": "لوساكا"
+      }
+    ]
+  },
+  {
+    "code": "ZW",
+    "key": "ZWE",
+    "nameEn": "Zimbabwe",
+    "nameAr": "زيمبابوي",
+    "capital": "Harare",
+    "cities": [
+      {
+        "en": "Harare",
+        "ar": "هراري"
+      }
+    ]
+  }
+]
