@@ -1,9 +1,0 @@
-{
-  "name": "tasko",
-  "version": "29.0.0",
-  "private": true,
-  "scripts": {
-    "start": "node server.js",
-    "check": "node --check server.js && node --check js/app.js"
-  }
-}
